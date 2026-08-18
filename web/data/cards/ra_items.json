@@ -1,0 +1,455 @@
+{
+    "schema_version": "1.0",
+    "essence_types": [
+        "elan",
+        "life",
+        "calm",
+        "death",
+        "gold"
+    ],
+    "cards": [
+        {
+            "id": "RA_I_PROTECTION",
+            "aruco_id": null,
+            "type": "item",
+            "name_en": "Protection",
+            "name_de": "",
+            "tags": [
+                "defense"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [],
+            "powers": [],
+            "react_powers": [
+                {
+                    "power_index": 1,
+                    "kind": "react",
+                    "requires_action": false,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "ignore_attack": {
+                                "enabled": true
+                            }
+                        }
+                    ]
+                }
+            ],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_I_ALCHEMY",
+            "aruco_id": null,
+            "type": "item",
+            "name_en": "Alchemy",
+            "name_de": "",
+            "tags": [
+                "conversion",
+                "gold"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "wild": {
+                            "count": 4,
+                            "allowed": [
+                                "elan",
+                                "life",
+                                "calm",
+                                "death"
+                            ]
+                        },
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "gain_to_pool": {
+                                "elan": 0,
+                                "life": 0,
+                                "calm": 0,
+                                "death": 0,
+                                "gold": 2
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_I_TRANSMUTATION",
+            "aruco_id": null,
+            "type": "item",
+            "name_en": "Transmutation",
+            "name_de": "",
+            "tags": [
+                "conversion"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "wild": {
+                            "count": 3,
+                            "allowed": [
+                                "elan",
+                                "life",
+                                "calm",
+                                "death"
+                            ]
+                        },
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "gain_wild": {
+                                "count": 3,
+                                "allowed": [
+                                    "elan",
+                                    "life",
+                                    "calm",
+                                    "death"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_I_DIVINATION",
+            "aruco_id": null,
+            "type": "item",
+            "name_en": "Divination",
+            "name_de": "",
+            "tags": [
+                "draw"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "draw": {
+                                "from": "deck",
+                                "count": 3
+                            }
+                        },
+                        {
+                            "discard": {
+                                "from": "hand",
+                                "count": 3
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_I_RESEARCH",
+            "aruco_id": null,
+            "type": "item",
+            "name_en": "Research",
+            "name_de": "",
+            "tags": [
+                "draw"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "wild": {
+                            "count": 1,
+                            "allowed": [
+                                "elan",
+                                "life",
+                                "calm",
+                                "death"
+                            ]
+                        },
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "draw": {
+                                "from": "deck",
+                                "count": 1
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_I_REANIMATE",
+            "aruco_id": null,
+            "type": "item",
+            "name_en": "Reanimate",
+            "name_de": "",
+            "tags": [
+                "untap"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "wild": {
+                            "count": 1,
+                            "allowed": [
+                                "elan",
+                                "life",
+                                "calm",
+                                "death"
+                            ]
+                        },
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "straighten_target": {
+                                "target": "chosen_component_in_play"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_I_DEATH_LIFE",
+            "aruco_id": null,
+            "type": "item",
+            "name_en": "Death / Life",
+            "name_de": "",
+            "tags": [
+                "resource",
+                "income"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [
+                {
+                    "timing": "collect_phase",
+                    "if": null,
+                    "effect": [
+                        {
+                            "gain_wild": {
+                                "count": 1,
+                                "allowed": [
+                                    "death",
+                                    "life"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "powers": [],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_I_CALM_ELAN",
+            "aruco_id": null,
+            "type": "item",
+            "name_en": "Calm / Elan",
+            "name_de": "",
+            "tags": [
+                "resource",
+                "income"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [
+                {
+                    "timing": "collect_phase",
+                    "if": null,
+                    "effect": [
+                        {
+                            "gain_wild": {
+                                "count": 1,
+                                "allowed": [
+                                    "calm",
+                                    "elan"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "powers": [],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        }
+    ]
+}

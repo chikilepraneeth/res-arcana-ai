@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Res Arcana AI</title>
+
+    <link
+        rel="stylesheet"
+        href="https://pyscript.net/releases/2026.7.2/core.css"
+    >
+
+    <script
+        type="module"
+        src="https://pyscript.net/releases/2026.7.2/core.js">
+    </script>
+
+    <style>
+        html,
+        body {
+            margin: 0;
+            width: 100%;
+            height: 100%;
+            background: #090909;
+            color: white;
+            font-family: Arial, sans-serif;
+            overflow: hidden;
+        }
+
+        #start-screen {
+            width: 100vw;
+            height: 100vh;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            gap: 20px;
+        }
+
+        #start-screen h1 {
+            margin: 0;
+            font-size: 48px;
+        }
+
+        #player-name {
+            width: 320px;
+            padding: 14px 16px;
+
+            font-size: 20px;
+
+            border-radius: 8px;
+            border: 1px solid #777;
+
+            outline: none;
+        }
+
+        #start-button {
+            padding: 14px 35px;
+
+            font-size: 20px;
+            font-weight: bold;
+
+            border: none;
+            border-radius: 8px;
+
+            cursor: pointer;
+        }
+
+        #game-wrapper {
+            display: none;
+
+            width: 100vw;
+            height: 100vh;
+
+            justify-content: center;
+            align-items: center;
+        }
+
+        #canvas {
+            display: block;
+
+            max-width: 100vw;
+            max-height: 100vh;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="start-screen">
+
+        <h1>Res Arcana AI</h1>
+
+        <div>
+            Enter your name
+        </div>
+
+        <input
+            id="player-name"
+            type="text"
+            placeholder="Player name"
+            maxlength="30"
+        >
+
+        <button id="start-button">
+            Start Game
+        </button>
+
+    </div>
+
+
+    <div id="game-wrapper">
+        <canvas id="canvas"></canvas>
+    </div>
+
+
+    <script>
+        const input =
+            document.getElementById(
+                "player-name"
+            );
+
+        const savedName =
+            localStorage.getItem(
+                "res_arcana_player_name"
+            );
+
+        if (savedName) {
+            input.value = savedName;
+        }
+
+
+        document
+            .getElementById(
+                "start-button"
+            )
+            .addEventListener(
+                "click",
+                () => {
+
+                    let name =
+                        input.value.trim();
+
+                    if (!name) {
+                        name = "Player";
+                    }
+
+                    localStorage.setItem(
+                        "res_arcana_player_name",
+                        name
+                    );
+
+                    document
+                        .getElementById(
+                            "start-screen"
+                        )
+                        .style.display =
+                            "none";
+
+                    document
+                        .getElementById(
+                            "game-wrapper"
+                        )
+                        .style.display =
+                            "flex";
+
+                    const script =
+                        document.createElement(
+                            "script"
+                        );
+
+                    script.type =
+                        "py-game";
+
+                    script.src =
+                        "./main.py?v=500";
+
+                    script.setAttribute(
+                        "target",
+                        "canvas"
+                    );
+
+                    script.setAttribute(
+                        "config",
+                        "./pyscript.json?v=500"
+                    );
+
+                    document.body.appendChild(
+                        script
+                    );
+                }
+            );
+    </script>
+
+</body>
+
+</html>

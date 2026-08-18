@@ -1,0 +1,1014 @@
+[
+    {
+        "name": "ai_area",
+        "type": "rect",
+        "x": 20,
+        "y": 54,
+        "w": 420,
+        "h": 487
+    },
+    {
+        "name": "main",
+        "type": "rect",
+        "x": 482,
+        "y": 283,
+        "w": 958,
+        "h": 512
+    },
+    {
+        "name": "ai_mage",
+        "type": "rect",
+        "x": 44,
+        "y": 78,
+        "w": 90,
+        "h": 130
+    },
+    {
+        "name": "ai_item",
+        "type": "rect",
+        "x": 182,
+        "y": 82,
+        "w": 64,
+        "h": 93
+    },
+    {
+        "name": "ai_mage_tap",
+        "type": "rect",
+        "x": 44,
+        "y": 118,
+        "w": 130,
+        "h": 90
+    },
+    {
+        "name": "ai_item_tap",
+        "type": "rect",
+        "x": 183,
+        "y": 111,
+        "w": 93,
+        "h": 64
+    },
+    {
+        "name": "ai_draw_deck",
+        "type": "rect",
+        "x": 202,
+        "y": 199,
+        "w": 90,
+        "h": 130
+    },
+    {
+        "name": "ai_discard",
+        "type": "rect",
+        "x": 307,
+        "y": 199,
+        "w": 90,
+        "h": 130
+    },
+    {
+        "name": "AIFPT",
+        "type": "circle",
+        "x": 365,
+        "y": 128,
+        "r": 50
+    },
+    {
+        "name": "elan",
+        "type": "circle",
+        "x": 71,
+        "y": 457,
+        "r": 30
+    },
+    {
+        "name": "calm",
+        "type": "circle",
+        "x": 150,
+        "y": 456,
+        "r": 30
+    },
+    {
+        "name": "gold",
+        "type": "circle",
+        "x": 230,
+        "y": 456,
+        "r": 30
+    },
+    {
+        "name": "death",
+        "type": "circle",
+        "x": 310,
+        "y": 456,
+        "r": 30
+    },
+    {
+        "name": "life",
+        "type": "circle",
+        "x": 390,
+        "y": 456,
+        "r": 30
+    },
+    {
+        "name": "ai_vp",
+        "type": "rect",
+        "x": 38,
+        "y": 222,
+        "w": 151,
+        "h": 161
+    },
+    {
+        "name": "ai_area_copy_15",
+        "type": "rect",
+        "x": 1482,
+        "y": 539,
+        "w": 420,
+        "h": 487
+    },
+    {
+        "name": "Elan",
+        "type": "circle",
+        "x": 1532,
+        "y": 941,
+        "r": 30
+    },
+    {
+        "name": "Calm",
+        "type": "circle",
+        "x": 1612,
+        "y": 941,
+        "r": 30
+    },
+    {
+        "name": "Gold",
+        "type": "circle",
+        "x": 1692,
+        "y": 942,
+        "r": 30
+    },
+    {
+        "name": "Death",
+        "type": "circle",
+        "x": 1772,
+        "y": 942,
+        "r": 30
+    },
+    {
+        "name": "Life",
+        "type": "circle",
+        "x": 1851,
+        "y": 943,
+        "r": 30
+    },
+    {
+        "name": "player_vp",
+        "type": "rect",
+        "x": 1734,
+        "y": 707,
+        "w": 151,
+        "h": 161
+    },
+    {
+        "name": "player_draw_deck",
+        "type": "rect",
+        "x": 1631,
+        "y": 684,
+        "w": 90,
+        "h": 130
+    },
+    {
+        "name": "player_discard",
+        "type": "rect",
+        "x": 1526,
+        "y": 684,
+        "w": 90,
+        "h": 130
+    },
+    {
+        "name": "PFPT",
+        "type": "circle",
+        "x": 1557,
+        "y": 612,
+        "r": 50
+    },
+    {
+        "name": "player_item_tap",
+        "type": "rect",
+        "x": 1647,
+        "y": 595,
+        "w": 93,
+        "h": 64
+    },
+    {
+        "name": "player_item",
+        "type": "rect",
+        "x": 1676,
+        "y": 566,
+        "w": 64,
+        "h": 93
+    },
+    {
+        "name": "player_mage",
+        "type": "rect",
+        "x": 1788,
+        "y": 562,
+        "w": 90,
+        "h": 130
+    },
+    {
+        "name": "player_mage_tap",
+        "type": "rect",
+        "x": 1748,
+        "y": 602,
+        "w": 130,
+        "h": 90
+    },
+    {
+        "name": "player_POP_area",
+        "type": "rect",
+        "x": 480,
+        "y": 809,
+        "w": 960,
+        "h": 266
+    },
+    {
+        "name": "player_artifacts_area",
+        "type": "rect",
+        "x": 18,
+        "y": 554,
+        "w": 453,
+        "h": 521
+    },
+    {
+        "name": "ai_POP_area",
+        "type": "rect",
+        "x": 484,
+        "y": 6,
+        "w": 960,
+        "h": 266
+    },
+    {
+        "name": "Player_POP_1",
+        "type": "rect",
+        "x": 1067,
+        "y": 829,
+        "w": 68,
+        "h": 90
+    },
+    {
+        "name": "Player_POP_2",
+        "type": "rect",
+        "x": 1172,
+        "y": 829,
+        "w": 68,
+        "h": 90
+    },
+    {
+        "name": "Player_POP_3",
+        "type": "rect",
+        "x": 1269,
+        "y": 829,
+        "w": 68,
+        "h": 90
+    },
+    {
+        "name": "Player_POP_tap_1",
+        "type": "rect",
+        "x": 1068,
+        "y": 850,
+        "w": 90,
+        "h": 68
+    },
+    {
+        "name": "Player_POP_tap_2",
+        "type": "rect",
+        "x": 1173,
+        "y": 850,
+        "w": 90,
+        "h": 68
+    },
+    {
+        "name": "Player_POP_tap_3",
+        "type": "rect",
+        "x": 1270,
+        "y": 850,
+        "w": 90,
+        "h": 68
+    },
+    {
+        "name": "POP_1",
+        "type": "rect",
+        "x": 500,
+        "y": 295,
+        "w": 170,
+        "h": 222
+    },
+    {
+        "name": "OpenMonument_1",
+        "type": "rect",
+        "x": 779,
+        "y": 545,
+        "w": 90,
+        "h": 130
+    },
+    {
+        "name": "POP_2",
+        "type": "rect",
+        "x": 691,
+        "y": 295,
+        "w": 170,
+        "h": 222
+    },
+    {
+        "name": "POP_3",
+        "type": "rect",
+        "x": 880,
+        "y": 295,
+        "w": 170,
+        "h": 222
+    },
+    {
+        "name": "POP_4",
+        "type": "rect",
+        "x": 1073,
+        "y": 295,
+        "w": 170,
+        "h": 222
+    },
+    {
+        "name": "POP_5",
+        "type": "rect",
+        "x": 1260,
+        "y": 295,
+        "w": 170,
+        "h": 222
+    },
+    {
+        "name": "MonumentDeck",
+        "type": "rect",
+        "x": 817,
+        "y": 693,
+        "w": 130,
+        "h": 90
+    },
+    {
+        "name": "OpenMonument_2",
+        "type": "rect",
+        "x": 881,
+        "y": 545,
+        "w": 90,
+        "h": 130
+    },
+    {
+        "name": "Item_1",
+        "type": "rect",
+        "x": 500,
+        "y": 559,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Item_2",
+        "type": "rect",
+        "x": 570,
+        "y": 559,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Item_4",
+        "type": "rect",
+        "x": 710,
+        "y": 561,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Item_3",
+        "type": "rect",
+        "x": 640,
+        "y": 558,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Item_5",
+        "type": "rect",
+        "x": 710,
+        "y": 674,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Item_6",
+        "type": "rect",
+        "x": 640,
+        "y": 674,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Item_7",
+        "type": "rect",
+        "x": 570,
+        "y": 673,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Item_8",
+        "type": "rect",
+        "x": 500,
+        "y": 671,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_5",
+        "type": "rect",
+        "x": 370,
+        "y": 700,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_6",
+        "type": "rect",
+        "x": 262,
+        "y": 700,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_7",
+        "type": "rect",
+        "x": 151,
+        "y": 700,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_8",
+        "type": "rect",
+        "x": 46,
+        "y": 700,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_1",
+        "type": "rect",
+        "x": 46,
+        "y": 590,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_2",
+        "type": "rect",
+        "x": 151,
+        "y": 590,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_3",
+        "type": "rect",
+        "x": 262,
+        "y": 590,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_4",
+        "type": "rect",
+        "x": 370,
+        "y": 590,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Monument_4",
+        "type": "rect",
+        "x": 370,
+        "y": 938,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Monument_3",
+        "type": "rect",
+        "x": 262,
+        "y": 938,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Monument_2",
+        "type": "rect",
+        "x": 151,
+        "y": 938,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Monument_1",
+        "type": "rect",
+        "x": 46,
+        "y": 938,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_9",
+        "type": "rect",
+        "x": 46,
+        "y": 826,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_10",
+        "type": "rect",
+        "x": 151,
+        "y": 826,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_11",
+        "type": "rect",
+        "x": 262,
+        "y": 826,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_12",
+        "type": "rect",
+        "x": 370,
+        "y": 826,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "Artifact_tap_1",
+        "type": "rect",
+        "x": 46,
+        "y": 615,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Artifact_tap_2",
+        "type": "rect",
+        "x": 152,
+        "y": 615,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Artifact_tap_3",
+        "type": "rect",
+        "x": 262,
+        "y": 615,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Artifact_tap_4",
+        "type": "rect",
+        "x": 369,
+        "y": 615,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Artifact_tap_5",
+        "type": "rect",
+        "x": 369,
+        "y": 725,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Artifact_tap_6",
+        "type": "rect",
+        "x": 262,
+        "y": 725,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Artifact_tap_7",
+        "type": "rect",
+        "x": 152,
+        "y": 725,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Artifact_tap_8",
+        "type": "rect",
+        "x": 46,
+        "y": 725,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Artifact_tap_9",
+        "type": "rect",
+        "x": 46,
+        "y": 850,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Artifact_tap_10",
+        "type": "rect",
+        "x": 152,
+        "y": 850,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Artifact_tap_11",
+        "type": "rect",
+        "x": 262,
+        "y": 850,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Artifact_tap_12",
+        "type": "rect",
+        "x": 369,
+        "y": 850,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Monument_tap_4",
+        "type": "rect",
+        "x": 370,
+        "y": 963,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Monument_tap_3",
+        "type": "rect",
+        "x": 262,
+        "y": 963,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Monument_tap_2",
+        "type": "rect",
+        "x": 152,
+        "y": 963,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "Monument_tap_1",
+        "type": "rect",
+        "x": 46,
+        "y": 963,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "ai_POP_tap_3",
+        "type": "rect",
+        "x": 715,
+        "y": 153,
+        "w": 90,
+        "h": 68
+    },
+    {
+        "name": "ai_POP_tap_2",
+        "type": "rect",
+        "x": 618,
+        "y": 153,
+        "w": 90,
+        "h": 68
+    },
+    {
+        "name": "ai_POP_tap_1",
+        "type": "rect",
+        "x": 513,
+        "y": 153,
+        "w": 90,
+        "h": 68
+    },
+    {
+        "name": "ai_POP_3",
+        "type": "rect",
+        "x": 714,
+        "y": 132,
+        "w": 68,
+        "h": 90
+    },
+    {
+        "name": "ai_POP_2",
+        "type": "rect",
+        "x": 617,
+        "y": 132,
+        "w": 68,
+        "h": 90
+    },
+    {
+        "name": "ai_POP_1",
+        "type": "rect",
+        "x": 512,
+        "y": 132,
+        "w": 68,
+        "h": 90
+    },
+    {
+        "name": "ai_artifacts_area",
+        "type": "rect",
+        "x": 1450,
+        "y": 13,
+        "w": 453,
+        "h": 521
+    },
+    {
+        "name": "artifact_tap_1",
+        "type": "rect",
+        "x": 1478,
+        "y": 74,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "artifact_1",
+        "type": "rect",
+        "x": 1478,
+        "y": 49,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "artifact_8",
+        "type": "rect",
+        "x": 1478,
+        "y": 159,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "artifact_tap_8",
+        "type": "rect",
+        "x": 1478,
+        "y": 184,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "artifact_tap_9",
+        "type": "rect",
+        "x": 1478,
+        "y": 309,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "artifact_9",
+        "type": "rect",
+        "x": 1478,
+        "y": 285,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "monument_1",
+        "type": "rect",
+        "x": 1478,
+        "y": 397,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "monument_tap_1",
+        "type": "rect",
+        "x": 1478,
+        "y": 422,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "monument_tap_2",
+        "type": "rect",
+        "x": 1584,
+        "y": 422,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "monument_2",
+        "type": "rect",
+        "x": 1583,
+        "y": 397,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "artifact_tap_10",
+        "type": "rect",
+        "x": 1584,
+        "y": 309,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "artifact_10",
+        "type": "rect",
+        "x": 1583,
+        "y": 285,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "artifact_tap_7",
+        "type": "rect",
+        "x": 1584,
+        "y": 184,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "artifact_7",
+        "type": "rect",
+        "x": 1583,
+        "y": 159,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "artifact_tap_2",
+        "type": "rect",
+        "x": 1584,
+        "y": 74,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "artifact_2",
+        "type": "rect",
+        "x": 1583,
+        "y": 49,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "artifact_3",
+        "type": "rect",
+        "x": 1694,
+        "y": 49,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "artifact_tap_3",
+        "type": "rect",
+        "x": 1694,
+        "y": 74,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "artifact_6",
+        "type": "rect",
+        "x": 1694,
+        "y": 159,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "artifact_tap_6",
+        "type": "rect",
+        "x": 1694,
+        "y": 184,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "artifact_11",
+        "type": "rect",
+        "x": 1694,
+        "y": 285,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "artifact_tap_11",
+        "type": "rect",
+        "x": 1694,
+        "y": 309,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "monument_3",
+        "type": "rect",
+        "x": 1694,
+        "y": 397,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "monument_tap_3",
+        "type": "rect",
+        "x": 1694,
+        "y": 422,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "monument_tap_4",
+        "type": "rect",
+        "x": 1802,
+        "y": 422,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "monument_4",
+        "type": "rect",
+        "x": 1802,
+        "y": 397,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "artifact_tap_12",
+        "type": "rect",
+        "x": 1801,
+        "y": 309,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "artifact_12",
+        "type": "rect",
+        "x": 1802,
+        "y": 285,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "artifact_tap_5",
+        "type": "rect",
+        "x": 1801,
+        "y": 184,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "artifact_5",
+        "type": "rect",
+        "x": 1802,
+        "y": 159,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "artifact_tap_4",
+        "type": "rect",
+        "x": 1801,
+        "y": 74,
+        "w": 84,
+        "h": 60
+    },
+    {
+        "name": "artifact_4",
+        "type": "rect",
+        "x": 1802,
+        "y": 49,
+        "w": 59,
+        "h": 84
+    },
+    {
+        "name": "player_hand",
+        "type": "rect",
+        "x": 494,
+        "y": 834,
+        "w": 561,
+        "h": 216
+    },
+    {
+        "name": "ai_hand",
+        "type": "rect",
+        "x": 822,
+        "y": 23,
+        "w": 608,
+        "h": 223
+    },
+    {
+        "name": "Gamelog",
+        "type": "rect",
+        "x": 981,
+        "y": 559,
+        "w": 450,
+        "h": 224
+    }
+]

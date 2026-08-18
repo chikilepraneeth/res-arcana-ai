@@ -1,0 +1,643 @@
+{
+    "schema_version": "1.0",
+    "essence_types": [
+        "elan",
+        "life",
+        "calm",
+        "death",
+        "gold"
+    ],
+    "cards": [
+        {
+            "id": "RA_N_SOLOMONS_MINE",
+            "aruco_id": null,
+            "type": "monument",
+            "name_en": "Solomon's Mine",
+            "name_de": "",
+            "tags": [
+                "vp",
+                "gold_generation"
+            ],
+            "placement_cost": {
+                "essence": {
+                    "elan": 0,
+                    "life": 0,
+                    "calm": 0,
+                    "death": 0,
+                    "gold": 4
+                },
+                "wild": null
+            },
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "gain_to_pool": {
+                                "elan": 0,
+                                "life": 0,
+                                "calm": 0,
+                                "death": 0,
+                                "gold": 1
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 1,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "TODO"
+        },
+        {
+            "id": "RA_N_LIBRARY",
+            "aruco_id": null,
+            "type": "monument",
+            "name_en": "Library",
+            "name_de": "",
+            "tags": [
+                "vp",
+                "draw"
+            ],
+            "placement_cost": {
+                "essence": {
+                    "elan": 0,
+                    "life": 0,
+                    "calm": 0,
+                    "death": 0,
+                    "gold": 4
+                },
+                "wild": null
+            },
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "draw": {
+                                "from": "your_deck",
+                                "count": 1
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 1,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "TODO"
+        },
+        {
+            "id": "RA_N_OBELISK",
+            "aruco_id": null,
+            "type": "monument",
+            "name_en": "Obelisk",
+            "name_de": "",
+            "tags": [
+                "vp",
+                "burst"
+            ],
+            "placement_cost": {
+                "essence": {
+                    "elan": 0,
+                    "life": 0,
+                    "calm": 0,
+                    "death": 0,
+                    "gold": 4
+                },
+                "wild": null
+            },
+            "claim_cost": null,
+            "collect": [
+                {
+                    "timing": "on_place",
+                    "if": null,
+                    "effect": [
+                        {
+                            "gain_wild": {
+                                "count": 6,
+                                "allowed": [
+                                    "elan",
+                                    "life",
+                                    "calm",
+                                    "death"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "powers": [],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 1,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "TODO"
+        },
+        {
+            "id": "RA_N_HANGING_GARDENS",
+            "aruco_id": null,
+            "type": "monument",
+            "name_en": "Hanging Gardens",
+            "name_de": "",
+            "tags": [
+                "vp",
+                "income"
+            ],
+            "placement_cost": {
+                "essence": {
+                    "elan": 0,
+                    "life": 0,
+                    "calm": 0,
+                    "death": 0,
+                    "gold": 4
+                },
+                "wild": null
+            },
+            "claim_cost": null,
+            "collect": [
+                {
+                    "timing": "collect_phase",
+                    "if": null,
+                    "effect": [
+                        {
+                            "gain_wild": {
+                                "count": 3,
+                                "allowed": [
+                                    "elan",
+                                    "life",
+                                    "calm",
+                                    "death"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "powers": [],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 1,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "TODO"
+        },
+        {
+            "id": "RA_N_TEMPLE",
+            "aruco_id": null,
+            "type": "monument",
+            "name_en": "Temple",
+            "name_de": "",
+            "tags": [
+                "vp",
+                "income",
+                "defense"
+            ],
+            "placement_cost": {
+                "essence": {
+                    "elan": 0,
+                    "life": 0,
+                    "calm": 0,
+                    "death": 0,
+                    "gold": 4
+                },
+                "wild": null
+            },
+            "claim_cost": null,
+            "collect": [
+                {
+                    "timing": "collect_phase",
+                    "if": null,
+                    "effect": [
+                        {
+                            "gain_to_pool": {
+                                "elan": 0,
+                                "life": 1,
+                                "calm": 0,
+                                "death": 0,
+                                "gold": 0
+                            }
+                        }
+                    ]
+                }
+            ],
+            "powers": [],
+            "react_powers": [
+                {
+                    "power_index": 1,
+                    "kind": "react",
+                    "requires_action": false,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "ignore_attack": {
+                                "enabled": true
+                            }
+                        }
+                    ]
+                }
+            ],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 2,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "TODO"
+        },
+        {
+            "id": "RA_N_MAUSOLEUM",
+            "aruco_id": null,
+            "type": "monument",
+            "name_en": "Mausoleum",
+            "name_de": "",
+            "tags": [
+                "vp",
+                "storage",
+                "conversion"
+            ],
+            "placement_cost": {
+                "essence": {
+                    "elan": 0,
+                    "life": 0,
+                    "calm": 0,
+                    "death": 0,
+                    "gold": 4
+                },
+                "wild": null
+            },
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": false,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": {
+                            "count": 1,
+                            "allowed": [
+                                "elan",
+                                "life",
+                                "calm",
+                                "death",
+                                "gold"
+                            ]
+                        },
+                        "turn_self": false,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "add_to_component": {
+                                "target": "self",
+                                "essence": {
+                                    "elan": 0,
+                                    "life": 0,
+                                    "calm": 0,
+                                    "death": 1,
+                                    "gold": 0
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 2,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "TODO"
+        },
+        {
+            "id": "RA_N_COLOSSUS",
+            "aruco_id": null,
+            "type": "monument",
+            "name_en": "Colossus",
+            "name_de": "",
+            "tags": [
+                "vp",
+                "storage",
+                "gold_engine"
+            ],
+            "placement_cost": {
+                "essence": {
+                    "elan": 0,
+                    "life": 0,
+                    "calm": 0,
+                    "death": 0,
+                    "gold": 4
+                },
+                "wild": null
+            },
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": {
+                            "count": 1,
+                            "allowed": [
+                                "elan",
+                                "life",
+                                "calm",
+                                "death",
+                                "gold"
+                            ]
+                        },
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "add_to_component": {
+                                "target": "self",
+                                "essence": {
+                                    "elan": 0,
+                                    "life": 0,
+                                    "calm": 0,
+                                    "death": 0,
+                                    "gold": 1
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 2,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "TODO"
+        },
+        {
+            "id": "RA_N_ORACLE",
+            "aruco_id": null,
+            "type": "monument",
+            "name_en": "Oracle",
+            "name_de": "",
+            "tags": [
+                "vp",
+                "scry",
+                "selection"
+            ],
+            "placement_cost": {
+                "essence": {
+                    "elan": 0,
+                    "life": 0,
+                    "calm": 0,
+                    "death": 0,
+                    "gold": 4
+                },
+                "wild": null
+            },
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "look_at_top_cards": {
+                                "from": "artifact_or_monument_supply",
+                                "count": 3
+                            }
+                        },
+                        {
+                            "reorder_top_cards": {
+                                "count": 3
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 2,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "TODO"
+        },
+        {
+            "id": "RA_N_GREAT_PYRAMID",
+            "aruco_id": null,
+            "type": "monument",
+            "name_en": "Great Pyramid",
+            "name_de": "",
+            "tags": [
+                "vp"
+            ],
+            "placement_cost": {
+                "essence": {
+                    "elan": 0,
+                    "life": 0,
+                    "calm": 0,
+                    "death": 0,
+                    "gold": 4
+                },
+                "wild": null
+            },
+            "claim_cost": null,
+            "collect": [],
+            "powers": [],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 3,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "TODO"
+        },
+        {
+            "id": "RA_N_GOLDEN_STATUE",
+            "aruco_id": null,
+            "type": "monument",
+            "name_en": "Golden Statue",
+            "name_de": "",
+            "tags": [
+                "vp",
+                "vp_engine"
+            ],
+            "placement_cost": {
+                "essence": {
+                    "elan": 0,
+                    "life": 0,
+                    "calm": 0,
+                    "death": 0,
+                    "gold": 4
+                },
+                "wild": null
+            },
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": false,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 3
+                        },
+                        "wild": null,
+                        "turn_self": false,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "gain_vp": {
+                                "amount": 3
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 1,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "TODO"
+        }
+    ]
+}

@@ -1,0 +1,737 @@
+{
+    "schema_version": "1.0",
+    "essence_types": [
+        "elan",
+        "life",
+        "calm",
+        "death",
+        "gold"
+    ],
+    "cards": [
+        {
+            "id": "RA_M_SCHOLAR",
+            "aruco_id": null,
+            "type": "mage",
+            "name_en": "Scholar",
+            "name_de": "Gelehrter",
+            "tags": [
+                "mage",
+                "draw"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": {
+                            "count": 1,
+                            "allowed": [
+                                "elan",
+                                "life",
+                                "calm",
+                                "death",
+                                "gold"
+                            ]
+                        },
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "draw": {
+                                "from": "your_deck",
+                                "count": 1
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_M_WITCH",
+            "aruco_id": null,
+            "type": "mage",
+            "name_en": "Witch",
+            "name_de": "Hexe",
+            "tags": [
+                "mage",
+                "untap"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [
+                {
+                    "timing": "collect_phase",
+                    "if": null,
+                    "effect": [
+                        {
+                            "gain_wild": {
+                                "count": 1,
+                                "allowed": [
+                                    "life",
+                                    "death"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": {
+                            "count": 2,
+                            "allowed": [
+                                "elan",
+                                "life",
+                                "calm",
+                                "death",
+                                "gold"
+                            ]
+                        },
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "straighten_target": {
+                                "target": "chosen_component_in_play"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_M_DUELIST",
+            "aruco_id": null,
+            "type": "mage",
+            "name_en": "Duelist",
+            "name_de": "Duellant",
+            "tags": [
+                "mage",
+                "income",
+                "gold"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [
+                {
+                    "timing": "collect_phase",
+                    "if": null,
+                    "effect": [
+                        {
+                            "gain_to_pool": {
+                                "elan": 1,
+                                "life": 0,
+                                "calm": 0,
+                                "death": 0,
+                                "gold": 0
+                            }
+                        }
+                    ]
+                }
+            ],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 1,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "add_to_component": {
+                                "target": "self",
+                                "essence": {
+                                    "elan": 0,
+                                    "life": 0,
+                                    "calm": 0,
+                                    "death": 0,
+                                    "gold": 1
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_M_NECROMANCER",
+            "aruco_id": null,
+            "type": "mage",
+            "name_en": "Necromancer",
+            "name_de": "Nekromantin",
+            "tags": [
+                "mage",
+                "income",
+                "death_engine"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [
+                {
+                    "timing": "collect_phase",
+                    "if": null,
+                    "effect": [
+                        {
+                            "gain_to_pool": {
+                                "elan": 0,
+                                "life": 0,
+                                "calm": 0,
+                                "death": 1,
+                                "gold": 0
+                            }
+                        }
+                    ]
+                }
+            ],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 2,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "add_to_component": {
+                                "target": "self",
+                                "essence": {
+                                    "elan": 0,
+                                    "life": 0,
+                                    "calm": 0,
+                                    "death": 3,
+                                    "gold": 0
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_M_HEALER",
+            "aruco_id": null,
+            "type": "mage",
+            "name_en": "Healer",
+            "name_de": "Heilerin",
+            "tags": [
+                "mage",
+                "defense",
+                "income"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [
+                {
+                    "timing": "collect_phase",
+                    "if": null,
+                    "effect": [
+                        {
+                            "gain_wild": {
+                                "count": 1,
+                                "allowed": [
+                                    "calm",
+                                    "life"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "powers": [],
+            "react_powers": [
+                {
+                    "power_index": 1,
+                    "kind": "react",
+                    "requires_action": false,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "ignore_attack": {
+                                "enabled": true
+                            }
+                        }
+                    ]
+                }
+            ],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_M_ALCHEMIST",
+            "aruco_id": null,
+            "type": "mage",
+            "name_en": "Alchemist",
+            "name_de": "Alchemist",
+            "tags": [
+                "mage",
+                "conversion",
+                "gold"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": {
+                            "count": 4,
+                            "allowed": [
+                                "elan",
+                                "life",
+                                "calm",
+                                "death"
+                            ]
+                        },
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "gain_to_pool": {
+                                "elan": 0,
+                                "life": 0,
+                                "calm": 0,
+                                "death": 0,
+                                "gold": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "power_index": 2,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "gain_wild": {
+                                "count": 1,
+                                "allowed": [
+                                    "elan",
+                                    "life",
+                                    "calm",
+                                    "death"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_M_SEER",
+            "aruco_id": null,
+            "type": "mage",
+            "name_en": "Seer",
+            "name_de": "Seherin",
+            "tags": [
+                "mage",
+                "scry",
+                "draw"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [
+                {
+                    "timing": "collect_phase",
+                    "if": null,
+                    "effect": [
+                        {
+                            "gain_to_pool": {
+                                "elan": 0,
+                                "life": 0,
+                                "calm": 1,
+                                "death": 0,
+                                "gold": 0
+                            }
+                        }
+                    ]
+                }
+            ],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "look_at_top_cards": {
+                                "from": "your_deck_or_monument_deck",
+                                "count": 3
+                            }
+                        },
+                        {
+                            "reorder_top_cards": {
+                                "count": 3
+                            }
+                        },
+                        {
+                            "put_back_top_cards": {
+                                "count": 2
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_M_TRANSMUTER",
+            "aruco_id": null,
+            "type": "mage",
+            "name_en": "Transmuter",
+            "name_de": "Verwandler",
+            "tags": [
+                "mage",
+                "conversion"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": {
+                            "count": 2,
+                            "allowed": [
+                                "elan",
+                                "life",
+                                "calm",
+                                "death"
+                            ]
+                        },
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "gain_wild": {
+                                "count": 3,
+                                "allowed": [
+                                    "elan",
+                                    "life",
+                                    "calm",
+                                    "death"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_M_ARTIFICER",
+            "aruco_id": null,
+            "type": "mage",
+            "name_en": "Artificer",
+            "name_de": "Kunsthandwerker",
+            "tags": [
+                "mage",
+                "discount"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [],
+            "powers": [],
+            "react_powers": [],
+            "passives": [
+                {
+                    "id": "artificer_artifact_discount",
+                    "effect": {
+                        "placement_cost_modifier": {
+                            "target": {
+                                "type": "artifact"
+                            },
+                            "discount": 1,
+                            "exclude_essence_types": [
+                                "gold"
+                            ]
+                        }
+                    }
+                }
+            ],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_M_DRUID",
+            "aruco_id": null,
+            "type": "mage",
+            "name_en": "Druid",
+            "name_de": "Druidin",
+            "tags": [
+                "mage",
+                "income",
+                "untap"
+            ],
+            "placement_cost": null,
+            "claim_cost": null,
+            "collect": [
+                {
+                    "timing": "collect_phase",
+                    "if": null,
+                    "effect": [
+                        {
+                            "gain_to_pool": {
+                                "elan": 0,
+                                "life": 1,
+                                "calm": 0,
+                                "death": 0,
+                                "gold": 0
+                            }
+                        }
+                    ]
+                }
+            ],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "straighten_target": {
+                                "target": "chosen_component_in_play",
+                                "restriction": {
+                                    "type": "creature"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        }
+    ]
+}

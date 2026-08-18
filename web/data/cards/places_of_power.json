@@ -1,0 +1,584 @@
+{
+    "schema_version": "1.0",
+    "essence_types": [
+        "elan",
+        "life",
+        "calm",
+        "death",
+        "gold"
+    ],
+    "cards": [
+        {
+            "id": "RA_P_DRAGONS_LAIR",
+            "side":"gold",
+            "aruco_id": null,
+            "type": "place_of_power",
+            "name_en": "Dragon’s Lair",
+            "name_de": "",
+            "tags": [
+                "dragon_support",
+                "gold_engine",
+                "vp_scaling"
+            ],
+            "placement_cost": null,
+            "claim_cost": {
+                "essence": {
+                    "elan": 3,
+                    "life": 3,
+                    "calm": 3,
+                    "death": 3,
+                    "gold": 0
+                },
+                "wild": null
+            },
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "gain_to_pool": {
+                                "elan": 0,
+                                "life": 0,
+                                "calm": 0,
+                                "death": 0,
+                                "gold": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "power_index": 2,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false,
+                        "tap_additional_target": {
+                            "restriction": {
+                                "has_tag": "dragon"
+                            }
+                        }
+                    },
+                    "effect": [
+                        {
+                            "add_to_component": {
+                                "target": "self",
+                                "essence": {
+                                    "elan": 0,
+                                    "life": 0,
+                                    "calm": 0,
+                                    "death": 0,
+                                    "gold": 2
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [
+                {
+                    "id": "dragons_lair_dragon_discount",
+                    "effect": {
+                        "placement_cost_modifier": {
+                            "target": {
+                                "has_tag": "dragon"
+                            },
+                            "discount": 3
+                        }
+                    }
+                }
+            ],
+            "triggers": [],
+            "vp": {
+                "base": 0,
+                "conditional": [
+                    {
+                        "per_stored_essence": {
+                            "component": "self",
+                            "essence_type": "gold",
+                            "vp_per": 1
+                        }
+                    }
+                ]
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_P_SACRED_GROVE",
+            "side":"gold",
+            "aruco_id": null,
+            "type": "place_of_power",
+            "name_en": "Sacred Grove",
+            "name_de": "",
+            "tags": [
+                "life_engine",
+                "storage",
+                "vp_scaling"
+            ],
+            "placement_cost": null,
+            "claim_cost": {
+                "essence": {
+                    "elan": 0,
+                    "life": 8,
+                    "calm": 4,
+                    "death": 0,
+                    "gold": 0
+                },
+                "wild": null
+            },
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 1,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "gain_to_pool": {
+                                "elan": 0,
+                                "life": 5,
+                                "calm": 0,
+                                "death": 0,
+                                "gold": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "power_index": 2,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false,
+                        "tap_additional_target": {
+                            "restriction": {
+                                "has_tag": "creature"
+                            }
+                        }
+                    },
+                    "effect": [
+                        {
+                            "add_to_component": {
+                                "target": "self",
+                                "essence": {
+                                    "elan": 0,
+                                    "life": 1,
+                                    "calm": 0,
+                                    "death": 0,
+                                    "gold": 0
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 2,
+                "conditional": [
+                    {
+                        "per_stored_essence": {
+                            "component": "self",
+                            "essence_type": "life",
+                            "vp_per": 1
+                        }
+                    }
+                ]
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_P_CURSED_FORGE",
+            "side":"gold",
+            "aruco_id": null,
+            "type": "place_of_power",
+            "name_en": "Cursed Forge",
+            "name_de": "",
+            "tags": [
+                "upkeep",
+                "storage",
+                "vp_scaling"
+            ],
+            "placement_cost": null,
+            "claim_cost": {
+                "essence": {
+                    "elan": 6,
+                    "life": 0,
+                    "calm": 0,
+                    "death": 3,
+                    "gold": 0
+                },
+                "wild": null
+            },
+            "collect": [
+                {
+                    "timing": "collect_phase",
+                    "if": null,
+                    "effect": [
+                        {
+                            "upkeep_choice": {
+                                "option_pay": {
+                                    "essence": {
+                                        "elan": 0,
+                                        "life": 0,
+                                        "calm": 0,
+                                        "death": 1,
+                                        "gold": 0
+                                    }
+                                },
+                                "option_else": {
+                                    "turn_self": true
+                                }
+                            }
+                        }
+                    ],
+                    "notes": "During Collect: either discard 1 Death, or this card becomes turned (and cannot be used this round)."
+                }
+            ],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": false,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 2,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 1
+                        },
+                        "wild": null,
+                        "turn_self": false,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "add_to_component": {
+                                "target": "self",
+                                "essence": {
+                                    "elan": 0,
+                                    "life": 0,
+                                    "calm": 0,
+                                    "death": 0,
+                                    "gold": 1
+                                }
+                            }
+                        }
+                    ],
+                    "notes": "No turning required for this power."
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 1,
+                "conditional": [
+                    {
+                        "per_stored_essence": {
+                            "component": "self",
+                            "essence_type": "gold",
+                            "vp_per": 1
+                        }
+                    }
+                ]
+            },
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_P_CATACOMBS_OF_THE_DEAD",
+            "side":"gold",
+            "aruco_id": null,
+            "type": "place_of_power",
+            "name_en": "Catacombs of the Dead",
+            "name_de": "",
+            "tags": [
+    "income",
+    "storage",
+    "vp_scaling"
+],
+            "placement_cost": null,
+            "claim_cost": {
+                "essence": {
+                    "elan": 0,
+                    "life": 0,
+                    "calm": 0,
+                    "death": 9,
+                    "gold": 0
+                },
+                "wild": null
+            },
+            "collect": [
+                {
+                    "timing": "collect_phase",
+                    "if": null,
+                    "effect": [
+                        {
+                            "gain_to_pool": {
+                                "elan": 0,
+                                "life": 0,
+                                "calm": 0,
+                                "death": 1,
+                                "gold": 0
+                            }
+                        }
+                    ]
+                }
+            ],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": false,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 5,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": false,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "add_to_component": {
+                                "target": "self",
+                                "essence": {
+                                    "elan": 0,
+                                    "life": 0,
+                                    "calm": 0,
+                                    "death": 1,
+                                    "gold": 0
+                                }
+                            }
+                        }
+                    ],
+                    "notes": "No turning required for this power."
+                },
+                {
+                    "power_index": 2,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "add_to_component": {
+                                "target": "self",
+                                "essence": {
+                                    "elan": 0,
+                                    "life": 0,
+                                    "calm": 0,
+                                    "death": 1,
+                                    "gold": 0
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+    "base": 0,
+    "conditional": [
+        {
+            "per_stored_essence": {
+                "component": "self",
+                "essence_type": "death",
+                "vp_per": 1
+            }
+        }
+    ]
+},
+            "source_image": "",
+            "status": "OK"
+        },
+        {
+            "id": "RA_P_CORAL_CASTLE",
+            "side":"gold",
+            "aruco_id": null,
+            "type": "place_of_power",
+            "name_en": "Coral Castle",
+            "name_de": "",
+            "tags": [
+                "tempo",
+                "defense"
+            ],
+            "placement_cost": null,
+            "claim_cost": {
+                "essence": {
+                    "elan": 5,
+                    "life": 5,
+                    "calm": 5,
+                    "death": 0,
+                    "gold": 0
+                },
+                "wild": null
+            },
+            "collect": [],
+            "powers": [
+                {
+                    "power_index": 1,
+                    "kind": "activated",
+                    "requires_action": true,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "jump_to_phase": {
+                                "phase": "victory_check"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "react_powers": [
+                {
+                    "power_index": 1,
+                    "kind": "react",
+                    "requires_action": false,
+                    "requires_turn": true,
+                    "limit": null,
+                    "cost": {
+                        "essence": {
+                            "elan": 0,
+                            "life": 0,
+                            "calm": 0,
+                            "death": 0,
+                            "gold": 0
+                        },
+                        "wild": null,
+                        "turn_self": true,
+                        "discard_cards": 0,
+                        "destroy_self": false,
+                        "destroy_owned_artifact": false
+                    },
+                    "effect": [
+                        {
+                            "ignore_attack": {
+                                "enabled": true,
+                                "restriction": "attack_or_life_loss"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "passives": [],
+            "triggers": [],
+            "vp": {
+                "base": 3,
+                "conditional": []
+            },
+            "source_image": "",
+            "status": "OK"
+        }
+    ]
+}

@@ -1,0 +1,8877 @@
+[
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "play_card:Dragon Teeth",
+      "use_power:Sacred Grove"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 25.6,
+    "average_reward": 25.6
+  },
+  {
+    "sequence": [
+      "buy_monument:Obelisk",
+      "use_power:Dragon’s Lair",
+      "play_card:Dragon Teeth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 23.6,
+    "average_reward": 23.6
+  },
+  {
+    "sequence": [
+      "use_power:Solomon's Mine",
+      "play_card:Nightingale",
+      "use_power:Solomon's Mine"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 21.0,
+    "average_reward": 21.0
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "buy_monument:Obelisk",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 19.7,
+    "average_reward": 19.7
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "buy_monument:Obelisk"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 19.2,
+    "average_reward": 19.2
+  },
+  {
+    "sequence": [
+      "play_card:Nightingale",
+      "buy_place_of_power:Dragon’s Lair",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 18.8,
+    "average_reward": 18.8
+  },
+  {
+    "sequence": [
+      "play_card:Flaming Pit",
+      "use_power:Ring of Midas",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 18.0,
+    "average_reward": 18.0
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "play_card:Dragon Teeth"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 17.6,
+    "average_reward": 17.6
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "buy_place_of_power:Cursed Forge",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 17.6,
+    "average_reward": 17.6
+  },
+  {
+    "sequence": [
+      "use_power:Scholar",
+      "play_card:Prism",
+      "use_power:Prism"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 17.4,
+    "average_reward": 17.4
+  },
+  {
+    "sequence": [
+      "play_card:Dragon Teeth",
+      "use_power:Sacred Grove",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 17.1,
+    "average_reward": 17.1
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Dragon’s Lair",
+      "use_power:Dragon’s Lair",
+      "buy_monument:Obelisk"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 17.0,
+    "average_reward": 17.0
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "discard:Sea Serpent:essence:life,calm",
+      "use_power:Alchemy"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 17.0,
+    "average_reward": 17.0
+  },
+  {
+    "sequence": [
+      "play_card:Dragon Teeth",
+      "use_power:Sacred Grove"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 16.6,
+    "average_reward": 16.6
+  },
+  {
+    "sequence": [
+      "play_card:Sacrificial Dagger",
+      "play_card:Fountain of Youth",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 16.599999999999998,
+    "average_reward": 16.6
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Cursed Forge",
+      "use_power:Dragon’s Lair",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 16.3,
+    "average_reward": 16.3
+  },
+  {
+    "sequence": [
+      "discard:Wind Dragon:essence:calm,calm",
+      "use_power:Scholar",
+      "play_card:Prism"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 16.0,
+    "average_reward": 16.0
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Cursed Forge",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 15.8,
+    "average_reward": 15.8
+  },
+  {
+    "sequence": [
+      "use_power:Vault",
+      "play_card:Celestial Horse",
+      "use_power:Alchemy"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 15.5,
+    "average_reward": 15.5
+  },
+  {
+    "sequence": [
+      "play_card:Prism",
+      "use_power:Prism"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 15.4,
+    "average_reward": 15.4
+  },
+  {
+    "sequence": [
+      "play_card:Prism",
+      "use_power:Prism",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 15.1,
+    "average_reward": 15.1
+  },
+  {
+    "sequence": [
+      "use_power:Research",
+      "play_card:Flaming Pit",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 15.1,
+    "average_reward": 15.1
+  },
+  {
+    "sequence": [
+      "buy_monument:Obelisk",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 15.0,
+    "average_reward": 15.0
+  },
+  {
+    "sequence": [
+      "use_power:Solomon's Mine",
+      "play_card:Nightingale"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 15.0,
+    "average_reward": 15.0
+  },
+  {
+    "sequence": [
+      "play_card:Nightingale",
+      "use_power:Solomon's Mine"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 15.0,
+    "average_reward": 15.0
+  },
+  {
+    "sequence": [
+      "use_power:Scholar",
+      "play_card:Prism"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 15.0,
+    "average_reward": 15.0
+  },
+  {
+    "sequence": [
+      "use_power:Vault",
+      "use_power:Alchemy",
+      "use_power:Philosopher's Stone"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 14.9,
+    "average_reward": 14.9
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Sacred Grove",
+      "buy_monument:Obelisk",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 14.0,
+    "average_reward": 14.0
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "buy_monument:Great Pyramid",
+      "use_power:Sacred Grove"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 14.0,
+    "average_reward": 14.0
+  },
+  {
+    "sequence": [
+      "discard:Chalice of Life:essence:calm,calm",
+      "use_power:Oracle",
+      "play_card:Prism"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 14.0,
+    "average_reward": 14.0
+  },
+  {
+    "sequence": [
+      "use_power:Colossus",
+      "use_power:Vault",
+      "play_card:Celestial Horse"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 14.0,
+    "average_reward": 14.0
+  },
+  {
+    "sequence": [
+      "play_card:Dragon Egg",
+      "use_power:Vault",
+      "use_power:Alchemy"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 13.9,
+    "average_reward": 13.9
+  },
+  {
+    "sequence": [
+      "play_card:Chalice of Life",
+      "use_power:Research",
+      "play_card:Flaming Pit"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 13.6,
+    "average_reward": 13.6
+  },
+  {
+    "sequence": [
+      "play_card:Flaming Pit",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 13.5,
+    "average_reward": 13.5
+  },
+  {
+    "sequence": [
+      "play_card:Sacrificial Dagger",
+      "play_card:Fountain of Youth"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 13.2,
+    "average_reward": 13.2
+  },
+  {
+    "sequence": [
+      "play_card:Nightingale",
+      "use_power:Solomon's Mine",
+      "use_power:Scholar"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 13.0,
+    "average_reward": 13.0
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "play_card:Magical Shard"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 13.0,
+    "average_reward": 13.0
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 13.0,
+    "average_reward": 13.0
+  },
+  {
+    "sequence": [
+      "use_power:Oracle",
+      "play_card:Prism"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 13.0,
+    "average_reward": 13.0
+  },
+  {
+    "sequence": [
+      "play_card:Prism",
+      "use_power:Divination"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 13.0,
+    "average_reward": 13.0
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "discard:Sea Serpent:essence:life,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 13.0,
+    "average_reward": 13.0
+  },
+  {
+    "sequence": [
+      "use_power:Oracle",
+      "play_card:Prism",
+      "use_power:Divination"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 13.0,
+    "average_reward": 13.0
+  },
+  {
+    "sequence": [
+      "use_power:Hawk",
+      "use_power:Dragon’s Lair",
+      "discard:Sea Serpent:essence:life,calm"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 13.0,
+    "average_reward": 13.0
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "buy_place_of_power:Sacred Grove",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 12.8,
+    "average_reward": 12.8
+  },
+  {
+    "sequence": [
+      "play_card:Chalice of Life",
+      "discard:Elemental Spring:essence:elan,life",
+      "play_card:Dragon Teeth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 12.6,
+    "average_reward": 12.6
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "use_power:Alchemy",
+      "play_card:Elvish Bow"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 12.6,
+    "average_reward": 12.6
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "play_card:Chalice of Life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 12.5,
+    "average_reward": 12.5
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 12.5,
+    "average_reward": 12.5
+  },
+  {
+    "sequence": [
+      "play_card:Fountain of Youth",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 12.0,
+    "average_reward": 12.0
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "play_card:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 12.0,
+    "average_reward": 12.0
+  },
+  {
+    "sequence": [
+      "play_card:Fountain of Youth",
+      "use_power:Sacrificial Dagger",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 12.0,
+    "average_reward": 12.0
+  },
+  {
+    "sequence": [
+      "use_power:Elvish Bow",
+      "play_card:Sacrificial Dagger",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 12.0,
+    "average_reward": 12.0
+  },
+  {
+    "sequence": [
+      "use_power:Hawk",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 12.0,
+    "average_reward": 12.0
+  },
+  {
+    "sequence": [
+      "use_power:Oracle",
+      "use_power:Hawk",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 12.0,
+    "average_reward": 12.0
+  },
+  {
+    "sequence": [
+      "play_card:Vault",
+      "use_power:Colossus",
+      "use_power:Vault"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 12.0,
+    "average_reward": 12.0
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Catacombs of the Dead",
+      "play_card:Celestial Horse",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 11.8,
+    "average_reward": 11.8
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "play_card:Hawk"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.8,
+    "average_reward": 11.8
+  },
+  {
+    "sequence": [
+      "play_card:Dragon Teeth",
+      "use_power:Chalice of Life",
+      "discard:Hawk:gold:"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.6,
+    "average_reward": 11.6
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "play_card:Elvish Bow",
+      "discard:Dancing Sword:essence:elan,elan"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.6,
+    "average_reward": 11.6
+  },
+  {
+    "sequence": [
+      "discard:Hawk:gold:",
+      "play_card:Fiery Whip",
+      "use_power:Fiery Whip"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.600000000000001,
+    "average_reward": 11.6
+  },
+  {
+    "sequence": [
+      "use_power:Vault",
+      "play_card:Celestial Horse"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.5,
+    "average_reward": 11.5
+  },
+  {
+    "sequence": [
+      "play_card:Dragon Egg",
+      "use_power:Vault"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.5,
+    "average_reward": 11.5
+  },
+  {
+    "sequence": [
+      "use_power:Wind Dragon",
+      "play_card:Dragon Egg",
+      "use_power:Vault"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.5,
+    "average_reward": 11.5
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "play_card:Jeweled Statuette"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 11.2,
+    "average_reward": 11.2
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "play_card:Jeweled Statuette",
+      "use_power:Coral Castle"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 11.2,
+    "average_reward": 11.2
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Catacombs of the Dead",
+      "buy_place_of_power:Dragon’s Lair",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.2,
+    "average_reward": 11.2
+  },
+  {
+    "sequence": [
+      "use_power:Scholar",
+      "play_card:Hawk"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.0,
+    "average_reward": 11.0
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Scholar",
+      "play_card:Hawk"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.0,
+    "average_reward": 11.0
+  },
+  {
+    "sequence": [
+      "use_power:Scholar",
+      "play_card:Hawk",
+      "use_power:Hawk"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.0,
+    "average_reward": 11.0
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Sacred Grove",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.0,
+    "average_reward": 11.0
+  },
+  {
+    "sequence": [
+      "play_card:Magical Shard",
+      "use_power:Necromancer",
+      "use_power:Magical Shard"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.0,
+    "average_reward": 11.0
+  },
+  {
+    "sequence": [
+      "play_card:Celestial Horse",
+      "use_power:Alchemy"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 11.0,
+    "average_reward": 11.0
+  },
+  {
+    "sequence": [
+      "use_power:Scholar",
+      "play_card:Cursed Skull",
+      "discard:Dancing Sword:essence:elan,elan"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.799999999999999,
+    "average_reward": 10.8
+  },
+  {
+    "sequence": [
+      "play_card:Fountain of Youth",
+      "discard:Nightingale:essence:calm,calm",
+      "discard:Wind Dragon:essence:calm,calm"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.6,
+    "average_reward": 10.6
+  },
+  {
+    "sequence": [
+      "use_power:Research",
+      "play_card:Flaming Pit"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.6,
+    "average_reward": 10.6
+  },
+  {
+    "sequence": [
+      "play_card:Fountain of Youth",
+      "use_power:Transmuter"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.6,
+    "average_reward": 10.6
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "play_card:Elvish Bow"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.6,
+    "average_reward": 10.6
+  },
+  {
+    "sequence": [
+      "play_card:Fountain of Youth",
+      "use_power:Transmuter",
+      "use_power:Transmutation"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.6,
+    "average_reward": 10.6
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "use_power:Elvish Bow",
+      "play_card:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.6,
+    "average_reward": 10.6
+  },
+  {
+    "sequence": [
+      "play_card:Prism",
+      "use_power:Divination",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.6,
+    "average_reward": 10.6
+  },
+  {
+    "sequence": [
+      "play_card:Celestial Horse",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 10.4,
+    "average_reward": 10.4
+  },
+  {
+    "sequence": [
+      "play_card:Elvish Bow",
+      "discard:Dancing Sword:essence:elan,elan",
+      "use_power:Transmuter"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.4,
+    "average_reward": 10.4
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "use_power:Philosopher's Stone"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.4,
+    "average_reward": 10.4
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "use_power:Chalice of Life",
+      "play_card:Dragon Egg"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.2,
+    "average_reward": 10.2
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "play_card:Bone Dragon"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 10.0,
+    "average_reward": 10.0
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Catacombs of the Dead",
+      "play_card:Bone Dragon"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 10.0,
+    "average_reward": 10.0
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "play_card:Bone Dragon",
+      "use_power:Bone Dragon"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 10.0,
+    "average_reward": 10.0
+  },
+  {
+    "sequence": [
+      "play_card:Hawk",
+      "use_power:Hawk",
+      "discard:Flaming Pit:essence:elan,elan"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.0,
+    "average_reward": 10.0
+  },
+  {
+    "sequence": [
+      "discard:Dancing Sword:essence:death,death",
+      "play_card:Jeweled Statuette",
+      "use_power:Jeweled Statuette"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.0,
+    "average_reward": 10.0
+  },
+  {
+    "sequence": [
+      "play_card:Jeweled Statuette",
+      "use_power:Jeweled Statuette",
+      "discard:Cursed Skull:essence:death,death"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 10.0,
+    "average_reward": 10.0
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "play_card:Dragon Bridle",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 9.799999999999999,
+    "average_reward": 9.8
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Dragon’s Lair",
+      "use_power:Dragon’s Lair",
+      "play_card:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 9.8,
+    "average_reward": 9.8
+  },
+  {
+    "sequence": [
+      "use_power:Scholar",
+      "play_card:Cursed Skull"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.799999999999999,
+    "average_reward": 9.8
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Scholar",
+      "play_card:Cursed Skull"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.799999999999999,
+    "average_reward": 9.8
+  },
+  {
+    "sequence": [
+      "play_card:Fountain of Youth",
+      "discard:Nightingale:essence:calm,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.6,
+    "average_reward": 9.6
+  },
+  {
+    "sequence": [
+      "discard:Elemental Spring:essence:elan,life",
+      "play_card:Dragon Teeth"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.6,
+    "average_reward": 9.6
+  },
+  {
+    "sequence": [
+      "discard:Elemental Spring:essence:elan,life",
+      "play_card:Dragon Teeth",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.6,
+    "average_reward": 9.6
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "use_power:Ring of Midas",
+      "discard:Fire Dragon:essence:elan,elan"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.5,
+    "average_reward": 9.5
+  },
+  {
+    "sequence": [
+      "use_power:Colossus",
+      "use_power:Wind Dragon",
+      "play_card:Dragon Egg"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.5,
+    "average_reward": 9.5
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Ring of Midas",
+      "use_power:Flaming Pit"
+    ],
+    "length": 3,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 18.8,
+    "average_reward": 9.4
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Prism",
+      "play_card:Hawk"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.4,
+    "average_reward": 9.4
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "play_card:Hawk",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.4,
+    "average_reward": 9.4
+  },
+  {
+    "sequence": [
+      "play_card:Cursed Skull",
+      "discard:Dancing Sword:essence:elan,elan"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.2,
+    "average_reward": 9.2
+  },
+  {
+    "sequence": [
+      "play_card:Jeweled Statuette",
+      "use_power:Jeweled Statuette",
+      "discard:Sea Serpent:essence:life,calm"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.2,
+    "average_reward": 9.2
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "play_card:Chalice of Life",
+      "use_power:Research"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.1,
+    "average_reward": 9.1
+  },
+  {
+    "sequence": [
+      "use_power:Sacred Grove",
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 2,
+    "wins": 1,
+    "losses": 1,
+    "success_rate": 0.5,
+    "total_reward": 18.0,
+    "average_reward": 9.0
+  },
+  {
+    "sequence": [
+      "play_card:Hawk",
+      "use_power:Hawk"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.0,
+    "average_reward": 9.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Solomon's Mine",
+      "use_power:Solomon's Mine",
+      "play_card:Nightingale"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.0,
+    "average_reward": 9.0
+  },
+  {
+    "sequence": [
+      "play_card:Magical Shard",
+      "use_power:Necromancer"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.0,
+    "average_reward": 9.0
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "play_card:Magical Shard",
+      "use_power:Necromancer"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.0,
+    "average_reward": 9.0
+  },
+  {
+    "sequence": [
+      "play_card:Ring of Midas",
+      "discard:Mermaid:essence:elan,life",
+      "discard:Elemental Spring:gold:"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.0,
+    "average_reward": 9.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Alchemy",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.0,
+    "average_reward": 9.0
+  },
+  {
+    "sequence": [
+      "discard:Nightingale:essence:death,death",
+      "discard:Hawk:gold:",
+      "play_card:Fiery Whip"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.0,
+    "average_reward": 9.0
+  },
+  {
+    "sequence": [
+      "use_power:Jeweled Statuette",
+      "discard:Sea Serpent:essence:life,calm",
+      "use_power:Scholar"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.0,
+    "average_reward": 9.0
+  },
+  {
+    "sequence": [
+      "use_power:Vault",
+      "use_power:Vault"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 9.0,
+    "average_reward": 9.0
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Dragon’s Lair",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 2,
+    "attempts": 3,
+    "wins": 1,
+    "losses": 2,
+    "success_rate": 0.3333333333333333,
+    "total_reward": 26.400000000000002,
+    "average_reward": 8.8
+  },
+  {
+    "sequence": [
+      "use_power:Colossus",
+      "use_power:Vault",
+      "discard:Cursed Skull:essence:death,death"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 8.8,
+    "average_reward": 8.8
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "buy_place_of_power:Dragon’s Lair",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 8.6,
+    "average_reward": 8.6
+  },
+  {
+    "sequence": [
+      "play_card:Dragon Teeth",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 8.6,
+    "average_reward": 8.6
+  },
+  {
+    "sequence": [
+      "use_power:Elvish Bow",
+      "play_card:Sacrificial Dagger"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 8.6,
+    "average_reward": 8.6
+  },
+  {
+    "sequence": [
+      "play_card:Fiery Whip",
+      "use_power:Fiery Whip"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 8.600000000000001,
+    "average_reward": 8.6
+  },
+  {
+    "sequence": [
+      "use_power:Sacred Grove",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 1,
+    "losses": 1,
+    "success_rate": 0.5,
+    "total_reward": 17.0,
+    "average_reward": 8.5
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 8.5,
+    "average_reward": 8.5
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Catacombs of the Dead",
+      "play_card:Celestial Horse"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 8.4,
+    "average_reward": 8.4
+  },
+  {
+    "sequence": [
+      "play_card:Bone Dragon",
+      "use_power:Bone Dragon"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 8.2,
+    "average_reward": 8.2
+  },
+  {
+    "sequence": [
+      "play_card:Jeweled Statuette",
+      "use_power:Jeweled Statuette"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 16.4,
+    "average_reward": 8.2
+  },
+  {
+    "sequence": [
+      "buy_monument:Obelisk",
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 8.2,
+    "average_reward": 8.2
+  },
+  {
+    "sequence": [
+      "play_card:Dragon Bridle",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 8.0,
+    "average_reward": 8.0
+  },
+  {
+    "sequence": [
+      "discard:Flaming Pit:essence:elan,elan",
+      "discard:Windup Man:gold:",
+      "use_power:Alchemy"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 8.0,
+    "average_reward": 8.0
+  },
+  {
+    "sequence": [
+      "discard:Elemental Spring:gold:",
+      "use_power:Ring of Midas",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 8.0,
+    "average_reward": 8.0
+  },
+  {
+    "sequence": [
+      "play_card:Elvish Bow",
+      "discard:Dancing Sword:essence:elan,elan"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 8.0,
+    "average_reward": 8.0
+  },
+  {
+    "sequence": [
+      "play_card:Sacrificial Dagger",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 8.0,
+    "average_reward": 8.0
+  },
+  {
+    "sequence": [
+      "play_card:Dragon Egg",
+      "discard:Hypnotic Basin:essence:life,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 8.0,
+    "average_reward": 8.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Flaming Pit",
+      "discard:Tree of Life:essence:life,life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.9,
+    "average_reward": 7.9
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "use_power:Mausoleum"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.8,
+    "average_reward": 7.8
+  },
+  {
+    "sequence": [
+      "use_power:Jeweled Statuette",
+      "discard:Cursed Skull:essence:death,death"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.8,
+    "average_reward": 7.8
+  },
+  {
+    "sequence": [
+      "use_power:Jeweled Statuette",
+      "discard:Cursed Skull:essence:death,death",
+      "use_power:Divination"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.8,
+    "average_reward": 7.8
+  },
+  {
+    "sequence": [
+      "play_card:Dragon Bridle",
+      "use_power:Sacrificial Dagger",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 7.699999999999999,
+    "average_reward": 7.7
+  },
+  {
+    "sequence": [
+      "buy_monument:Obelisk",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.7,
+    "average_reward": 7.7
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "use_power:Mausoleum",
+      "use_power:Mausoleum"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.6,
+    "average_reward": 7.6
+  },
+  {
+    "sequence": [
+      "play_card:Dragon Egg",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.5,
+    "average_reward": 7.5
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "play_card:Dragon Egg",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.5,
+    "average_reward": 7.5
+  },
+  {
+    "sequence": [
+      "play_card:Dragon Egg",
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.5,
+    "average_reward": 7.5
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "play_card:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.5,
+    "average_reward": 7.5
+  },
+  {
+    "sequence": [
+      "discard:Elemental Spring:gold:",
+      "use_power:Divination",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.5,
+    "average_reward": 7.5
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Ring of Midas",
+      "play_card:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.5,
+    "average_reward": 7.5
+  },
+  {
+    "sequence": [
+      "play_card:Vault",
+      "use_power:Colossus"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.5,
+    "average_reward": 7.5
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Flaming Pit",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.4,
+    "average_reward": 7.4
+  },
+  {
+    "sequence": [
+      "play_card:Chalice of Fire",
+      "use_power:Transmuter"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.4,
+    "average_reward": 7.4
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "play_card:Chalice of Fire",
+      "use_power:Transmuter"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.4,
+    "average_reward": 7.4
+  },
+  {
+    "sequence": [
+      "discard:Hawk:gold:",
+      "play_card:Fiery Whip"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.2,
+    "average_reward": 7.2
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 14.0,
+    "average_reward": 7.0
+  },
+  {
+    "sequence": [
+      "use_power:Colossus",
+      "use_power:Vault"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 14.0,
+    "average_reward": 7.0
+  },
+  {
+    "sequence": [
+      "discard:Windup Man:gold:",
+      "use_power:Alchemy"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.0,
+    "average_reward": 7.0
+  },
+  {
+    "sequence": [
+      "use_power:Solomon's Mine",
+      "discard:Earth Dragon:essence:elan,elan"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.0,
+    "average_reward": 7.0
+  },
+  {
+    "sequence": [
+      "use_power:Hawk",
+      "use_power:Solomon's Mine",
+      "discard:Earth Dragon:essence:elan,elan"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.0,
+    "average_reward": 7.0
+  },
+  {
+    "sequence": [
+      "use_power:Solomon's Mine",
+      "discard:Earth Dragon:essence:elan,elan",
+      "use_power:Hawk"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.0,
+    "average_reward": 7.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "play_card:Dragon Egg"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.0,
+    "average_reward": 7.0
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "use_power:Transmutation",
+      "play_card:Chalice of Fire"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.0,
+    "average_reward": 7.0
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "discard:Earth Dragon:essence:elan,life",
+      "use_power:Elvish Bow"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.0,
+    "average_reward": 7.0
+  },
+  {
+    "sequence": [
+      "use_power:Jeweled Statuette",
+      "discard:Sea Serpent:essence:life,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.0,
+    "average_reward": 7.0
+  },
+  {
+    "sequence": [
+      "use_power:Wind Dragon",
+      "play_card:Dragon Egg"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 7.0,
+    "average_reward": 7.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Flaming Pit"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 13.8,
+    "average_reward": 6.9
+  },
+  {
+    "sequence": [
+      "use_power:Vault",
+      "use_power:Alchemy"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.9,
+    "average_reward": 6.9
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "use_power:Sacrificial Dagger",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 6.8,
+    "average_reward": 6.8
+  },
+  {
+    "sequence": [
+      "discard:Earth Dragon:essence:elan,life",
+      "use_power:Elvish Bow",
+      "discard:Dragon Bridle:essence:death,death"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.8,
+    "average_reward": 6.8
+  },
+  {
+    "sequence": [
+      "play_card:Nightingale",
+      "buy_place_of_power:Dragon’s Lair"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.8,
+    "average_reward": 6.8
+  },
+  {
+    "sequence": [
+      "play_card:Hawk",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.6,
+    "average_reward": 6.6
+  },
+  {
+    "sequence": [
+      "discard:Chalice of Life:gold:",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 6.4,
+    "average_reward": 6.4
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "play_card:Dragon Bridle"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 6.3999999999999995,
+    "average_reward": 6.4
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "discard:Chalice of Life:gold:",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 6.4,
+    "average_reward": 6.4
+  },
+  {
+    "sequence": [
+      "play_card:Celestial Horse",
+      "use_power:Sacrificial Dagger",
+      "use_power:Necromancer"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 6.4,
+    "average_reward": 6.4
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Alchemy",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 6.3,
+    "average_reward": 6.3
+  },
+  {
+    "sequence": [
+      "use_power:Vault",
+      "discard:Cursed Skull:essence:death,death"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.3,
+    "average_reward": 6.3
+  },
+  {
+    "sequence": [
+      "play_card:Bone Dragon",
+      "use_power:Bone Dragon",
+      "use_power:Reanimate"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 6.199999999999999,
+    "average_reward": 6.2
+  },
+  {
+    "sequence": [
+      "discard:Hawk:gold:",
+      "use_power:Alchemy"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.2,
+    "average_reward": 6.2
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "discard:Hawk:gold:",
+      "use_power:Alchemy"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.2,
+    "average_reward": 6.2
+  },
+  {
+    "sequence": [
+      "discard:Hawk:gold:",
+      "use_power:Alchemy",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.2,
+    "average_reward": 6.2
+  },
+  {
+    "sequence": [
+      "play_card:Fiery Whip",
+      "use_power:Fiery Whip",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.200000000000001,
+    "average_reward": 6.2
+  },
+  {
+    "sequence": [
+      "discard:Chalice of Life:gold:",
+      "use_power:Sacrificial Dagger",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 6.1,
+    "average_reward": 6.1
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Teeth",
+      "use_power:Catacombs of the Dead",
+      "buy_place_of_power:Cursed Forge"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.1,
+    "average_reward": 6.1
+  },
+  {
+    "sequence": [
+      "use_power:Hawk",
+      "use_power:Solomon's Mine"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.0,
+    "average_reward": 6.0
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Hawk",
+      "use_power:Solomon's Mine"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.0,
+    "average_reward": 6.0
+  },
+  {
+    "sequence": [
+      "use_power:Dragon’s Lair",
+      "buy_monument:Great Pyramid"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.0,
+    "average_reward": 6.0
+  },
+  {
+    "sequence": [
+      "play_card:Ring of Midas",
+      "discard:Mermaid:essence:elan,life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.0,
+    "average_reward": 6.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "discard:Fire Dragon:essence:elan,elan",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.0,
+    "average_reward": 6.0
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "use_power:Elvish Bow"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.0,
+    "average_reward": 6.0
+  },
+  {
+    "sequence": [
+      "use_power:Fiery Whip",
+      "use_power:Duelist",
+      "use_power:Alchemy"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.0,
+    "average_reward": 6.0
+  },
+  {
+    "sequence": [
+      "use_power:Philosopher's Stone",
+      "buy_monument:Library",
+      "use_power:Library"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 6.0,
+    "average_reward": 6.0
+  },
+  {
+    "sequence": [
+      "discard:Elemental Spring:gold:",
+      "use_power:Dragon Teeth",
+      "use_power:Alchemy"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.9,
+    "average_reward": 5.9
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 5.8,
+    "average_reward": 5.8
+  },
+  {
+    "sequence": [
+      "use_power:Elvish Bow",
+      "discard:Dragon Bridle:essence:death,death"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.8,
+    "average_reward": 5.8
+  },
+  {
+    "sequence": [
+      "use_power:Elvish Bow",
+      "discard:Philosopher's Stone:essence:death,death"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.8,
+    "average_reward": 5.8
+  },
+  {
+    "sequence": [
+      "play_card:Vault",
+      "play_card:Philosopher's Stone",
+      "use_power:Vault"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.7,
+    "average_reward": 5.7
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "buy_place_of_power:Cursed Forge"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.6,
+    "average_reward": 5.6
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "use_power:Alchemy"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.6,
+    "average_reward": 5.6
+  },
+  {
+    "sequence": [
+      "play_card:Celestial Horse",
+      "use_power:Duelist",
+      "discard:Chalice of Life:essence:calm,calm"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.6,
+    "average_reward": 5.6
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Dragon’s Lair",
+      "use_power:Dragon’s Lair",
+      "use_power:Mausoleum"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.6,
+    "average_reward": 5.6
+  },
+  {
+    "sequence": [
+      "play_card:Dragon Egg",
+      "discard:Hypnotic Basin:essence:life,calm",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.6,
+    "average_reward": 5.6
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "use_power:Sacrificial Dagger",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 5.5,
+    "average_reward": 5.5
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "discard:Fire Dragon:essence:elan,elan"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.5,
+    "average_reward": 5.5
+  },
+  {
+    "sequence": [
+      "use_power:Elvish Bow",
+      "discard:Dragon Bridle:essence:death,death",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.5,
+    "average_reward": 5.5
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Elvish Bow",
+      "discard:Philosopher's Stone:essence:death,death"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.5,
+    "average_reward": 5.5
+  },
+  {
+    "sequence": [
+      "use_power:Elvish Bow",
+      "discard:Philosopher's Stone:essence:death,death",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.5,
+    "average_reward": 5.5
+  },
+  {
+    "sequence": [
+      "use_power:Vault",
+      "discard:Mermaid:essence:life,life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.5,
+    "average_reward": 5.5
+  },
+  {
+    "sequence": [
+      "use_power:Wind Dragon",
+      "use_power:Vault",
+      "discard:Mermaid:essence:life,life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.5,
+    "average_reward": 5.5
+  },
+  {
+    "sequence": [
+      "use_power:Vault",
+      "discard:Mermaid:essence:life,life",
+      "use_power:Divination"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.5,
+    "average_reward": 5.5
+  },
+  {
+    "sequence": [
+      "play_card:Chalice of Fire",
+      "use_power:Transmuter",
+      "use_power:Chalice of Fire"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.4,
+    "average_reward": 5.4
+  },
+  {
+    "sequence": [
+      "use_power:Scholar",
+      "discard:Nightingale:essence:elan,death",
+      "discard:Dancing Sword:essence:death,death"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.2,
+    "average_reward": 5.2
+  },
+  {
+    "sequence": [
+      "play_card:Cursed Skull",
+      "discard:Dancing Sword:essence:elan,elan",
+      "use_power:Philosopher's Stone"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.199999999999999,
+    "average_reward": 5.2
+  },
+  {
+    "sequence": [
+      "play_card:Philosopher's Stone",
+      "use_power:Vault",
+      "use_power:Vault"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.2,
+    "average_reward": 5.2
+  },
+  {
+    "sequence": [
+      "use_power:Colossus",
+      "use_power:Duelist",
+      "play_card:Vault"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.1,
+    "average_reward": 5.1
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "play_card:Vault",
+      "use_power:Colossus"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.1,
+    "average_reward": 5.1
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Sacred Grove",
+      "buy_monument:Obelisk"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "use_power:Solomon's Mine",
+      "use_power:Scholar",
+      "discard:Flaming Pit:essence:elan,elan"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Egg",
+      "use_power:Divination",
+      "play_card:Magical Shard"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Sacred Grove",
+      "use_power:Dragon’s Lair",
+      "buy_monument:Great Pyramid"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "play_card:Chalice of Fire"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "discard:Earth Dragon:essence:elan,life",
+      "use_power:Elvish Bow"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "discard:Sea Serpent:essence:life,calm",
+      "use_power:Alchemy"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "buy_monument:Oracle",
+      "play_card:Celestial Horse"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "play_card:Celestial Horse",
+      "use_power:Alchemy",
+      "buy_monument:Great Pyramid"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "play_card:Vault"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "use_power:Colossus",
+      "use_power:Colossus"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "use_power:Library",
+      "discard:Mermaid:essence:calm,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "use_power:Colossus",
+      "use_power:Colossus",
+      "use_power:Wind Dragon"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 5.0
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "use_power:Fountain of Youth",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 4.9,
+    "average_reward": 4.9
+  },
+  {
+    "sequence": [
+      "discard:Nightingale:essence:death,death",
+      "discard:Hawk:gold:"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.8,
+    "average_reward": 4.8
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Philosopher's Stone"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.800000000000001,
+    "average_reward": 4.8
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Duelist",
+      "use_power:Philosopher's Stone"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.800000000000001,
+    "average_reward": 4.8
+  },
+  {
+    "sequence": [
+      "discard:Dragon Bridle:essence:death,death",
+      "use_power:Fountain of Youth",
+      "use_power:Transmuter"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.7,
+    "average_reward": 4.7
+  },
+  {
+    "sequence": [
+      "play_card:Chalice of Life",
+      "use_power:Research"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.6,
+    "average_reward": 4.6
+  },
+  {
+    "sequence": [
+      "play_card:Celestial Horse",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.6,
+    "average_reward": 4.6
+  },
+  {
+    "sequence": [
+      "play_card:Hawk",
+      "use_power:Duelist",
+      "use_power:Reanimate"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.6,
+    "average_reward": 4.6
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.5,
+    "average_reward": 4.5
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Alchemy"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.5,
+    "average_reward": 4.5
+  },
+  {
+    "sequence": [
+      "use_power:Wind Dragon",
+      "use_power:Vault"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.5,
+    "average_reward": 4.5
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "buy_place_of_power:Catacombs of the Dead",
+      "play_card:Celestial Horse"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 4.4,
+    "average_reward": 4.4
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Dragon Teeth",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 4.4,
+    "average_reward": 4.4
+  },
+  {
+    "sequence": [
+      "discard:Sea Serpent:essence:life,calm",
+      "use_power:Scholar",
+      "discard:Nightingale:essence:elan,death"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.4,
+    "average_reward": 4.4
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "use_power:Philosopher's Stone",
+      "buy_monument:Library"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.4,
+    "average_reward": 4.4
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Coral Castle",
+      "use_power:Dragon’s Lair",
+      "play_card:Jeweled Statuette"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 4.2,
+    "average_reward": 4.2
+  },
+  {
+    "sequence": [
+      "play_card:Chalice of Life",
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 4.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "buy_monument:Solomon's Mine",
+      "use_power:Solomon's Mine"
+    ],
+    "length": 3,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 8.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "discard:Flaming Pit:essence:elan,elan",
+      "discard:Windup Man:gold:"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "use_power:Solomon's Mine",
+      "use_power:Scholar"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "use_power:Hawk",
+      "discard:Flaming Pit:essence:elan,elan",
+      "discard:Windup Man:gold:"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "play_card:Chalice of Life",
+      "discard:Elemental Spring:essence:elan,life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life",
+      "discard:Elemental Spring:gold:"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "discard:Elemental Spring:gold:",
+      "use_power:Dragon Teeth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "discard:Mermaid:essence:elan,life",
+      "discard:Elemental Spring:gold:"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "discard:Mermaid:essence:elan,life",
+      "discard:Elemental Spring:gold:",
+      "use_power:Divination"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Fire",
+      "use_power:Transmuter",
+      "use_power:Elvish Bow"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "discard:Chalice of Life:essence:calm,calm",
+      "buy_monument:Mausoleum",
+      "play_card:Nightingale"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "discard:Dancing Sword:essence:death,death",
+      "play_card:Jeweled Statuette"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 4.0,
+    "average_reward": 4.0
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Teeth",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 3.9,
+    "average_reward": 3.9
+  },
+  {
+    "sequence": [
+      "use_power:Vault",
+      "discard:Cursed Skull:essence:death,death",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.9000000000000004,
+    "average_reward": 3.9
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Elvish Bow"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.7,
+    "average_reward": 3.7
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Fountain of Youth",
+      "use_power:Elvish Bow"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.7,
+    "average_reward": 3.7
+  },
+  {
+    "sequence": [
+      "use_power:Philosopher's Stone",
+      "buy_monument:Colossus",
+      "use_power:Colossus"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.7,
+    "average_reward": 3.7
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Teeth",
+      "use_power:Sacrificial Dagger",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 3.6,
+    "average_reward": 3.6
+  },
+  {
+    "sequence": [
+      "discard:Hawk:essence:death,death",
+      "discard:Nightingale:essence:death,death"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.6,
+    "average_reward": 3.6
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Fire",
+      "use_power:Transmuter",
+      "use_power:Alchemy"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.6,
+    "average_reward": 3.6
+  },
+  {
+    "sequence": [
+      "use_power:Solomon's Mine",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.6,
+    "average_reward": 3.6
+  },
+  {
+    "sequence": [
+      "play_card:Chalice of Life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 3.5,
+    "average_reward": 3.5
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "discard:Elemental Spring:gold:"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.5,
+    "average_reward": 3.5
+  },
+  {
+    "sequence": [
+      "discard:Elemental Spring:gold:",
+      "use_power:Dragon Teeth"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.5,
+    "average_reward": 3.5
+  },
+  {
+    "sequence": [
+      "discard:Elemental Spring:gold:",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.5,
+    "average_reward": 3.5
+  },
+  {
+    "sequence": [
+      "discard:Sea Serpent:essence:life,life",
+      "use_power:Cursed Skull"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.5,
+    "average_reward": 3.5
+  },
+  {
+    "sequence": [
+      "use_power:Bone Dragon",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 3.4,
+    "average_reward": 3.4
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life",
+      "use_power:Alchemy"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 3.4,
+    "average_reward": 3.4
+  },
+  {
+    "sequence": [
+      "use_power:Magical Shard",
+      "use_power:Chalice of Life",
+      "buy_place_of_power:Catacombs of the Dead"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.4,
+    "average_reward": 3.4
+  },
+  {
+    "sequence": [
+      "use_power:Flaming Pit",
+      "discard:Tree of Life:essence:life,life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.4,
+    "average_reward": 3.4
+  },
+  {
+    "sequence": [
+      "use_power:Flaming Pit",
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.4,
+    "average_reward": 3.4
+  },
+  {
+    "sequence": [
+      "discard:Dancing Sword:essence:elan,elan",
+      "use_power:Transmuter"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.4,
+    "average_reward": 3.4
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "use_power:Hawk",
+      "discard:Chalice of Life:essence:calm,calm"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.4,
+    "average_reward": 3.4
+  },
+  {
+    "sequence": [
+      "use_power:Solomon's Mine",
+      "use_power:Duelist",
+      "use_power:Mausoleum"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.4,
+    "average_reward": 3.4
+  },
+  {
+    "sequence": [
+      "use_power:Scholar",
+      "discard:Nightingale:essence:elan,death"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.4,
+    "average_reward": 3.4
+  },
+  {
+    "sequence": [
+      "discard:Cursed Skull:essence:death,death",
+      "use_power:Divination",
+      "use_power:Scholar"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.4000000000000004,
+    "average_reward": 3.4
+  },
+  {
+    "sequence": [
+      "discard:Dragon Bridle:essence:death,death",
+      "use_power:Fountain of Youth",
+      "discard:Dragon Bridle:essence:death,death"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.3000000000000003,
+    "average_reward": 3.3
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.2,
+    "average_reward": 3.2
+  },
+  {
+    "sequence": [
+      "discard:Nightingale:essence:elan,death",
+      "discard:Dancing Sword:essence:death,death"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.2,
+    "average_reward": 3.2
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 2,
+    "attempts": 6,
+    "wins": 6,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 18.6,
+    "average_reward": 3.1
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "use_power:Sacrificial Dagger",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 3.1,
+    "average_reward": 3.1
+  },
+  {
+    "sequence": [
+      "use_power:Bone Dragon",
+      "use_power:Sacrificial Dagger",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 3.1,
+    "average_reward": 3.1
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "discard:Chalice of Life:gold:"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 3.0,
+    "average_reward": 3.0
+  },
+  {
+    "sequence": [
+      "discard:Wind Dragon:essence:calm,calm",
+      "use_power:Scholar"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.0,
+    "average_reward": 3.0
+  },
+  {
+    "sequence": [
+      "discard:Wind Dragon:essence:calm,calm",
+      "use_power:Divination",
+      "use_power:Scholar"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.0,
+    "average_reward": 3.0
+  },
+  {
+    "sequence": [
+      "use_power:Hawk",
+      "discard:Wind Dragon:essence:calm,calm",
+      "use_power:Scholar"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.0,
+    "average_reward": 3.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "discard:Hawk:gold:"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.0,
+    "average_reward": 3.0
+  },
+  {
+    "sequence": [
+      "use_power:Magical Shard",
+      "use_power:Chalice of Life",
+      "discard:Dragon Egg:essence:elan,life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.0,
+    "average_reward": 3.0
+  },
+  {
+    "sequence": [
+      "discard:Elemental Spring:gold:",
+      "use_power:Divination"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.0,
+    "average_reward": 3.0
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "discard:Earth Dragon:essence:elan,life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.0,
+    "average_reward": 3.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Mausoleum",
+      "play_card:Nightingale"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.0,
+    "average_reward": 3.0
+  },
+  {
+    "sequence": [
+      "discard:Sea Serpent:essence:life,calm",
+      "use_power:Scholar"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 3.0,
+    "average_reward": 3.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Alchemy"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 2.9,
+    "average_reward": 2.9
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Teeth",
+      "use_power:Alchemy"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.9,
+    "average_reward": 2.9
+  },
+  {
+    "sequence": [
+      "use_power:Flaming Pit",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.9,
+    "average_reward": 2.9
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "use_power:Fountain of Youth",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 5,
+    "wins": 5,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 14.0,
+    "average_reward": 2.8
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "use_power:Divination"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.8,
+    "average_reward": 2.8
+  },
+  {
+    "sequence": [
+      "discard:Fiery Whip:essence:elan,elan",
+      "use_power:Mausoleum",
+      "use_power:Prism"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.8,
+    "average_reward": 2.8
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Sacrificial Dagger",
+      "discard:Chalice of Life:gold:"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 2.7,
+    "average_reward": 2.7
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Transmuter"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 5.4,
+    "average_reward": 2.7
+  },
+  {
+    "sequence": [
+      "use_power:Flaming Pit",
+      "discard:Tree of Life:essence:life,life",
+      "use_power:Transmutation"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.5999999999999996,
+    "average_reward": 2.6
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "play_card:Vault"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.6,
+    "average_reward": 2.6
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Transmutation",
+      "play_card:Vault"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.6,
+    "average_reward": 2.6
+  },
+  {
+    "sequence": [
+      "use_power:Library",
+      "discard:Mermaid:essence:calm,calm",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.6,
+    "average_reward": 2.6
+  },
+  {
+    "sequence": [
+      "use_power:Magical Shard",
+      "use_power:Dragon Teeth"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 2.5
+  },
+  {
+    "sequence": [
+      "use_power:Magical Shard",
+      "use_power:Dragon Teeth",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 5.0,
+    "average_reward": 2.5
+  },
+  {
+    "sequence": [
+      "buy_monument:Great Pyramid",
+      "use_power:Sacred Grove",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.5,
+    "average_reward": 2.5
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Transmuter",
+      "use_power:Divination"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.5,
+    "average_reward": 2.5
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "use_power:Divination",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.5,
+    "average_reward": 2.5
+  },
+  {
+    "sequence": [
+      "use_power:Colossus",
+      "use_power:Wind Dragon"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.5,
+    "average_reward": 2.5
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Catacombs of the Dead",
+      "play_card:Dragon Bridle"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 2.3999999999999995,
+    "average_reward": 2.4
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "use_power:Hawk"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.4,
+    "average_reward": 2.4
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Teeth",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.3,
+    "average_reward": 2.3
+  },
+  {
+    "sequence": [
+      "use_power:Cursed Skull",
+      "use_power:Scholar",
+      "discard:Jeweled Statuette:essence:death,death"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.3,
+    "average_reward": 2.3
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "use_power:Chalice of Fire",
+      "use_power:Transmuter"
+    ],
+    "length": 3,
+    "attempts": 3,
+    "wins": 0,
+    "losses": 3,
+    "success_rate": 0.0,
+    "total_reward": 6.8,
+    "average_reward": 2.27
+  },
+  {
+    "sequence": [
+      "play_card:Jeweled Statuette",
+      "use_power:Coral Castle"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 2.2,
+    "average_reward": 2.2
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.1,
+    "average_reward": 2.1
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Wind Dragon",
+      "use_power:Vault"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.1,
+    "average_reward": 2.1
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Coral Castle",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "buy_place_of_power:Coral Castle",
+      "use_power:Dragon’s Lair"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "use_power:Magical Shard",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 4.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "discard:Nightingale:essence:calm,calm",
+      "discard:Wind Dragon:essence:calm,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "discard:Nightingale:essence:calm,calm",
+      "discard:Wind Dragon:essence:calm,calm",
+      "use_power:Divination"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "discard:Earth Dragon:essence:elan,elan",
+      "use_power:Hawk",
+      "discard:Wind Dragon:essence:calm,calm"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Magical Shard"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Great Pyramid",
+      "use_power:Sacred Grove"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "discard:Dragon Egg:essence:elan,life",
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Dragon Teeth",
+      "discard:Hawk:essence:calm,calm"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Teeth",
+      "discard:Hawk:essence:calm,calm",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life",
+      "discard:Dragon Bridle:essence:elan,calm"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "use_power:Transmutation"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "use_power:Fiery Whip",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.0000000000000004,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "use_power:Philosopher's Stone",
+      "buy_monument:Library"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 2.0,
+    "average_reward": 2.0
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 2,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 3.6,
+    "average_reward": 1.8
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 1.8,
+    "average_reward": 1.8
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Scholar"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 3.6,
+    "average_reward": 1.8
+  },
+  {
+    "sequence": [
+      "discard:Cursed Skull:essence:death,death",
+      "use_power:Divination"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 3.6,
+    "average_reward": 1.8
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "use_power:Oracle",
+      "use_power:Mausoleum"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.8,
+    "average_reward": 1.8
+  },
+  {
+    "sequence": [
+      "use_power:Magical Shard",
+      "use_power:Transmutation",
+      "use_power:Dragon Teeth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.7,
+    "average_reward": 1.7
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Alchemy"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.6,
+    "average_reward": 1.6
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Divination",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Catacombs of the Dead",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life",
+      "use_power:Dragon Teeth"
+    ],
+    "length": 3,
+    "attempts": 3,
+    "wins": 1,
+    "losses": 2,
+    "success_rate": 0.3333333333333333,
+    "total_reward": 4.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "discard:Dragon Bridle:essence:death,death",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 3.0,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "discard:Dragon Egg:essence:elan,life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Teeth",
+      "discard:Hawk:essence:calm,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "discard:Hawk:essence:calm,calm",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "discard:Dragon Bridle:essence:elan,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "discard:Dragon Egg:essence:elan,life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Dragon Teeth",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "discard:Fire Dragon:essence:elan,elan",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "discard:Dragon Bridle:essence:death,death"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "discard:Philosopher's Stone:essence:death,death",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "discard:Sea Serpent:essence:life,life",
+      "use_power:Cursed Skull",
+      "use_power:Scholar"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.5,
+    "average_reward": 1.5
+  },
+  {
+    "sequence": [
+      "use_power:Reanimate",
+      "use_power:Bone Dragon",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 1.4,
+    "average_reward": 1.4
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 10,
+    "wins": 5,
+    "losses": 5,
+    "success_rate": 0.5,
+    "total_reward": 14.0,
+    "average_reward": 1.4
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "buy_place_of_power:Catacombs of the Dead"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.4,
+    "average_reward": 1.4
+  },
+  {
+    "sequence": [
+      "discard:Dancing Sword:essence:elan,elan",
+      "use_power:Transmuter",
+      "use_power:Chalice of Fire"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.4,
+    "average_reward": 1.4
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "use_power:Necromancer",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 1.2,
+    "average_reward": 1.2
+  },
+  {
+    "sequence": [
+      "use_power:Magical Shard",
+      "use_power:Transmutation"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.2,
+    "average_reward": 1.2
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Magical Shard",
+      "use_power:Transmutation"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.2,
+    "average_reward": 1.2
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "discard:Dragon Bridle:essence:death,death",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.2000000000000002,
+    "average_reward": 1.2
+  },
+  {
+    "sequence": [
+      "play_card:Vault",
+      "play_card:Philosopher's Stone"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.2000000000000002,
+    "average_reward": 1.2
+  },
+  {
+    "sequence": [
+      "use_power:Philosopher's Stone",
+      "buy_monument:Colossus"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.2000000000000002,
+    "average_reward": 1.2
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "play_card:Vault",
+      "play_card:Philosopher's Stone"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.2000000000000002,
+    "average_reward": 1.2
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "buy_place_of_power:Sacred Grove",
+      "buy_monument:Obelisk"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Dragon Teeth"
+    ],
+    "length": 2,
+    "attempts": 3,
+    "wins": 1,
+    "losses": 2,
+    "success_rate": 0.3333333333333333,
+    "total_reward": 3.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "discard:Wind Dragon:essence:calm,calm",
+      "use_power:Divination"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "use_power:Hawk",
+      "discard:Flaming Pit:essence:elan,elan"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "discard:Flaming Pit:essence:elan,elan",
+      "use_power:Transmutation"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "discard:Earth Dragon:essence:elan,elan",
+      "use_power:Hawk"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "use_power:Hawk",
+      "discard:Wind Dragon:essence:calm,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "discard:Windup Man:gold:",
+      "use_power:Alchemy",
+      "buy_monument:Solomon's Mine"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "discard:Flaming Pit:essence:elan,elan",
+      "use_power:Transmutation",
+      "use_power:Hawk"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "discard:Dragon Egg:essence:elan,life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Fire",
+      "use_power:Transmuter",
+      "discard:Earth Dragon:essence:elan,life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Oracle",
+      "play_card:Celestial Horse"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "discard:Chalice of Life:essence:calm,calm",
+      "use_power:Oracle"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "use_power:Hawk",
+      "discard:Chalice of Life:essence:calm,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "use_power:Hawk",
+      "discard:Fiery Whip:essence:elan,elan"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "discard:Celestial Horse:essence:calm,calm",
+      "use_power:Transmutation"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Great Pyramid",
+      "use_power:Colossus",
+      "use_power:Vault"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "discard:Jeweled Statuette:essence:death,death",
+      "use_power:Transmutation"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "discard:Jeweled Statuette:essence:death,death",
+      "use_power:Transmutation",
+      "use_power:Philosopher's Stone"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "discard:Mermaid:essence:life,life",
+      "use_power:Divination"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 1.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 18,
+    "wins": 7,
+    "losses": 11,
+    "success_rate": 0.3888888888888889,
+    "total_reward": 17.0,
+    "average_reward": 0.94
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Transmuter",
+      "use_power:Chalice of Fire"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.9000000000000001,
+    "average_reward": 0.9
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "use_power:Chalice of Fire",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.9000000000000001,
+    "average_reward": 0.9
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "buy_place_of_power:Sacred Grove"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.8,
+    "average_reward": 0.8
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Catacombs of the Dead",
+      "buy_place_of_power:Sacred Grove"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.8,
+    "average_reward": 0.8
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life",
+      "use_power:Mausoleum"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.8,
+    "average_reward": 0.8
+  },
+  {
+    "sequence": [
+      "discard:Fiery Whip:essence:elan,elan",
+      "use_power:Mausoleum"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.8,
+    "average_reward": 0.8
+  },
+  {
+    "sequence": [
+      "buy_monument:Mausoleum",
+      "play_card:Nightingale",
+      "buy_place_of_power:Dragon’s Lair"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.7999999999999998,
+    "average_reward": 0.8
+  },
+  {
+    "sequence": [
+      "use_power:Mausoleum",
+      "use_power:Hawk",
+      "discard:Fiery Whip:essence:elan,elan"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.8,
+    "average_reward": 0.8
+  },
+  {
+    "sequence": [
+      "use_power:Hawk",
+      "discard:Fiery Whip:essence:elan,elan",
+      "use_power:Mausoleum"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.8,
+    "average_reward": 0.8
+  },
+  {
+    "sequence": [
+      "discard:Tree of Life:essence:life,life",
+      "use_power:Transmutation",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.7,
+    "average_reward": 0.7
+  },
+  {
+    "sequence": [
+      "play_card:Philosopher's Stone",
+      "use_power:Vault"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.7000000000000002,
+    "average_reward": 0.7
+  },
+  {
+    "sequence": [
+      "use_power:Vault",
+      "use_power:Vault",
+      "use_power:Dragon Egg"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.5999999999999996,
+    "average_reward": 0.6
+  },
+  {
+    "sequence": [
+      "use_power:Transmuter",
+      "use_power:Chalice of Fire"
+    ],
+    "length": 2,
+    "attempts": 4,
+    "wins": 0,
+    "losses": 4,
+    "success_rate": 0.0,
+    "total_reward": 2.0,
+    "average_reward": 0.5
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Teeth",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 1.0,
+    "average_reward": 0.5
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Fire",
+      "use_power:Fountain of Youth",
+      "use_power:Transmuter"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.49999999999999983,
+    "average_reward": 0.5
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "buy_monument:Great Pyramid",
+      "use_power:Colossus"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.5,
+    "average_reward": 0.5
+  },
+  {
+    "sequence": [
+      "use_power:Cursed Skull",
+      "use_power:Scholar"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.5,
+    "average_reward": 0.5
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "use_power:Necromancer",
+      "use_power:Magical Shard"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.3999999999999999,
+    "average_reward": 0.4
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Duelist",
+      "use_power:Prism"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.3999999999999999,
+    "average_reward": 0.4
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Mausoleum"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.3,
+    "average_reward": 0.3
+  },
+  {
+    "sequence": [
+      "discard:Tree of Life:essence:life,life",
+      "use_power:Transmutation"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.19999999999999996,
+    "average_reward": 0.2
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Ring of Midas",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.19999999999999996,
+    "average_reward": 0.2
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Transmutation"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": 0.10000000000000003,
+    "average_reward": 0.1
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Prism"
+    ],
+    "length": 2,
+    "attempts": 4,
+    "wins": 0,
+    "losses": 4,
+    "success_rate": 0.0,
+    "total_reward": 0.3999999999999999,
+    "average_reward": 0.1
+  },
+  {
+    "sequence": [
+      "use_power:Colossus",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.10000000000000009,
+    "average_reward": 0.1
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 3,
+    "wins": 0,
+    "losses": 3,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Fire",
+      "use_power:Transmuter"
+    ],
+    "length": 2,
+    "attempts": 3,
+    "wins": 0,
+    "losses": 3,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Cursed Skull",
+      "use_power:Necromancer"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Prism",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Solomon's Mine",
+      "use_power:Solomon's Mine"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "use_power:Oracle"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Nightingale:essence:life,life",
+      "play_card:Cursed Skull"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "play_card:Cursed Skull",
+      "discard:Sea Serpent:essence:calm,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Sea Serpent:essence:calm,calm",
+      "use_power:Cursed Skull"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Divination"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "discard:Philosopher's Stone:essence:elan,life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Philosopher's Stone:essence:elan,life",
+      "use_power:Cursed Skull"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Cursed Skull",
+      "discard:Tree of Life:essence:life,life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Tree of Life:essence:life,life",
+      "use_power:Cursed Skull"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Cursed Skull",
+      "use_power:Reanimate"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Reanimate",
+      "use_power:Cursed Skull"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Cursed Skull",
+      "use_power:Alchemy"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "discard:Philosopher's Stone:essence:life,life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Philosopher's Stone:essence:life,life",
+      "use_power:Cursed Skull"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Cursed Skull",
+      "buy_place_of_power:Catacombs of the Dead"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Catacombs of the Dead",
+      "discard:Nightingale:essence:elan,life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Nightingale:essence:elan,life",
+      "use_power:Transmutation"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Cursed Skull"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Nightingale:essence:life,life",
+      "play_card:Cursed Skull",
+      "discard:Sea Serpent:essence:calm,calm"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "play_card:Cursed Skull",
+      "discard:Sea Serpent:essence:calm,calm",
+      "use_power:Cursed Skull"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Sea Serpent:essence:calm,calm",
+      "use_power:Cursed Skull",
+      "use_power:Necromancer"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Cursed Skull",
+      "use_power:Necromancer",
+      "use_power:Divination"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Divination",
+      "discard:Philosopher's Stone:essence:elan,life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "discard:Philosopher's Stone:essence:elan,life",
+      "use_power:Cursed Skull"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Philosopher's Stone:essence:elan,life",
+      "use_power:Cursed Skull",
+      "discard:Tree of Life:essence:life,life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Cursed Skull",
+      "discard:Tree of Life:essence:life,life",
+      "use_power:Cursed Skull"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Tree of Life:essence:life,life",
+      "use_power:Cursed Skull",
+      "use_power:Reanimate"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Cursed Skull",
+      "use_power:Reanimate",
+      "use_power:Cursed Skull"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Reanimate",
+      "use_power:Cursed Skull",
+      "use_power:Alchemy"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Cursed Skull",
+      "use_power:Alchemy",
+      "discard:Philosopher's Stone:essence:life,life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "discard:Philosopher's Stone:essence:life,life",
+      "use_power:Cursed Skull"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Philosopher's Stone:essence:life,life",
+      "use_power:Cursed Skull",
+      "buy_place_of_power:Catacombs of the Dead"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Cursed Skull",
+      "buy_place_of_power:Catacombs of the Dead",
+      "discard:Nightingale:essence:elan,life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Catacombs of the Dead",
+      "discard:Nightingale:essence:elan,life",
+      "use_power:Transmutation"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Nightingale:essence:elan,life",
+      "use_power:Transmutation",
+      "use_power:Cursed Skull"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Cursed Skull",
+      "use_power:Necromancer"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Dragon Teeth:essence:life,calm",
+      "play_card:Prism"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "play_card:Prism",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Divination"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Prism"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "discard:Philosopher's Stone:essence:death,death"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Philosopher's Stone:essence:death,death",
+      "play_card:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "play_card:Ring of Midas",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Reanimate",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Prism"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "buy_monument:Great Pyramid"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Great Pyramid",
+      "discard:Guard Dog:gold:"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Guard Dog:gold:",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "buy_monument:Oracle"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Oracle",
+      "discard:Cursed Skull:essence:death,death"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Cursed Skull:essence:death,death",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Transmutation"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "play_card:Dwarven Pickaxe"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "play_card:Dwarven Pickaxe",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Dwarven Pickaxe"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Dwarven Pickaxe",
+      "buy_monument:Temple"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Temple",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Dragon Teeth:essence:life,calm",
+      "play_card:Prism",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "play_card:Prism",
+      "use_power:Duelist",
+      "use_power:Divination"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Divination",
+      "use_power:Prism"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Prism",
+      "discard:Philosopher's Stone:essence:death,death"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "discard:Philosopher's Stone:essence:death,death",
+      "play_card:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Philosopher's Stone:essence:death,death",
+      "play_card:Ring of Midas",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "play_card:Ring of Midas",
+      "use_power:Ring of Midas",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Duelist",
+      "use_power:Reanimate"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Reanimate",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Reanimate",
+      "use_power:Ring of Midas",
+      "use_power:Prism"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Prism",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "use_power:Ring of Midas",
+      "buy_monument:Great Pyramid"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "buy_monument:Great Pyramid",
+      "discard:Guard Dog:gold:"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Great Pyramid",
+      "discard:Guard Dog:gold:",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Guard Dog:gold:",
+      "use_power:Ring of Midas",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Duelist",
+      "use_power:Prism"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "use_power:Ring of Midas",
+      "buy_monument:Oracle"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "buy_monument:Oracle",
+      "discard:Cursed Skull:essence:death,death"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Oracle",
+      "discard:Cursed Skull:essence:death,death",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "discard:Cursed Skull:essence:death,death",
+      "use_power:Ring of Midas",
+      "use_power:Transmutation"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Transmutation",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Duelist",
+      "play_card:Dwarven Pickaxe"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "play_card:Dwarven Pickaxe",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "play_card:Dwarven Pickaxe",
+      "use_power:Ring of Midas",
+      "use_power:Dwarven Pickaxe"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Dwarven Pickaxe",
+      "buy_monument:Temple"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Dwarven Pickaxe",
+      "buy_monument:Temple",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Temple",
+      "use_power:Duelist",
+      "use_power:Prism"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Hawk"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Oracle",
+      "use_power:Hawk"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Prism",
+      "use_power:Hawk"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": 0.0,
+    "average_reward": 0.0
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Fountain of Youth",
+      "use_power:Transmutation"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -0.19999999999999996,
+    "average_reward": -0.2
+  },
+  {
+    "sequence": [
+      "use_power:Mausoleum",
+      "use_power:Prism"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": -0.40000000000000013,
+    "average_reward": -0.2
+  },
+  {
+    "sequence": [
+      "use_power:Mausoleum",
+      "use_power:Prism",
+      "use_power:Oracle"
+    ],
+    "length": 3,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": -0.40000000000000013,
+    "average_reward": -0.2
+  },
+  {
+    "sequence": [
+      "use_power:Mausoleum",
+      "use_power:Hawk"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.2,
+    "average_reward": -0.2
+  },
+  {
+    "sequence": [
+      "use_power:Oracle",
+      "use_power:Mausoleum"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.2,
+    "average_reward": -0.2
+  },
+  {
+    "sequence": [
+      "use_power:Scholar",
+      "discard:Jeweled Statuette:essence:death,death"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.19999999999999996,
+    "average_reward": -0.2
+  },
+  {
+    "sequence": [
+      "discard:Dancing Sword:essence:death,death",
+      "play_card:Philosopher's Stone",
+      "discard:Cursed Skull:essence:death,death"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.19999999999999973,
+    "average_reward": -0.2
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -0.3,
+    "average_reward": -0.3
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Divination"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -0.3,
+    "average_reward": -0.3
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Dragon Teeth"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.30000000000000004,
+    "average_reward": -0.3
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.30000000000000004,
+    "average_reward": -0.3
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Mausoleum",
+      "use_power:Mausoleum"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.3,
+    "average_reward": -0.3
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.3,
+    "average_reward": -0.3
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "buy_place_of_power:Dragon’s Lair"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -0.40000000000000013,
+    "average_reward": -0.4
+  },
+  {
+    "sequence": [
+      "use_power:Philosopher's Stone",
+      "discard:Sea Serpent:essence:life,life",
+      "use_power:Cursed Skull"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.5,
+    "average_reward": -0.5
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 2,
+    "attempts": 9,
+    "wins": 9,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -5.3999999999999995,
+    "average_reward": -0.6
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "use_power:Necromancer"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -0.6000000000000001,
+    "average_reward": -0.6
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Fountain of Youth",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -0.6,
+    "average_reward": -0.6
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Fountain of Youth",
+      "use_power:Divination"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -0.6,
+    "average_reward": -0.6
+  },
+  {
+    "sequence": [
+      "discard:Cursed Skull:essence:death,death",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.5999999999999999,
+    "average_reward": -0.6
+  },
+  {
+    "sequence": [
+      "discard:Cursed Skull:essence:death,death",
+      "use_power:Divination",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.5999999999999999,
+    "average_reward": -0.6
+  },
+  {
+    "sequence": [
+      "discard:Nightingale:essence:elan,death",
+      "discard:Dancing Sword:essence:death,death",
+      "play_card:Philosopher's Stone"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.5999999999999999,
+    "average_reward": -0.6
+  },
+  {
+    "sequence": [
+      "buy_place_of_power:Catacombs of the Dead",
+      "buy_place_of_power:Dragon’s Lair"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.8000000000000003,
+    "average_reward": -0.8
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "buy_place_of_power:Catacombs of the Dead",
+      "buy_place_of_power:Dragon’s Lair"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.8000000000000003,
+    "average_reward": -0.8
+  },
+  {
+    "sequence": [
+      "use_power:Oracle",
+      "use_power:Mausoleum",
+      "use_power:Mausoleum"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.8,
+    "average_reward": -0.8
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Philosopher's Stone"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -0.8,
+    "average_reward": -0.8
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Fountain of Youth",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 3,
+    "attempts": 4,
+    "wins": 4,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -3.5999999999999996,
+    "average_reward": -0.9
+  },
+  {
+    "sequence": [
+      "use_power:Scholar",
+      "discard:Flaming Pit:essence:elan,elan"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.0,
+    "average_reward": -1.0
+  },
+  {
+    "sequence": [
+      "use_power:Scholar",
+      "discard:Flaming Pit:essence:elan,elan",
+      "use_power:Transmutation"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.0,
+    "average_reward": -1.0
+  },
+  {
+    "sequence": [
+      "discard:Dragon Bridle:essence:elan,calm",
+      "use_power:Necromancer",
+      "use_power:Magical Shard"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.0,
+    "average_reward": -1.0
+  },
+  {
+    "sequence": [
+      "use_power:Mausoleum",
+      "use_power:Mausoleum",
+      "use_power:Mausoleum"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.0,
+    "average_reward": -1.0
+  },
+  {
+    "sequence": [
+      "discard:Sea Serpent:essence:life,calm",
+      "use_power:Alchemy",
+      "buy_monument:Solomon's Mine"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.0,
+    "average_reward": -1.0
+  },
+  {
+    "sequence": [
+      "use_power:Scholar",
+      "discard:Jeweled Statuette:essence:death,death",
+      "use_power:Transmutation"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.0,
+    "average_reward": -1.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Colossus",
+      "use_power:Colossus",
+      "use_power:Colossus"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.0,
+    "average_reward": -1.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Library",
+      "use_power:Library",
+      "discard:Mermaid:essence:calm,calm"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.0,
+    "average_reward": -1.0
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 2,
+    "attempts": 3,
+    "wins": 2,
+    "losses": 1,
+    "success_rate": 0.6666666666666666,
+    "total_reward": -3.2,
+    "average_reward": -1.07
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Teeth",
+      "use_power:Alchemy",
+      "use_power:Necromancer"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.1,
+    "average_reward": -1.1
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": -2.4,
+    "average_reward": -1.2
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Philosopher's Stone",
+      "buy_monument:Colossus"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.1999999999999997,
+    "average_reward": -1.2
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "discard:Chalice of Life:essence:calm,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.4,
+    "average_reward": -1.4
+  },
+  {
+    "sequence": [
+      "buy_monument:Oracle",
+      "play_card:Celestial Horse",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.4,
+    "average_reward": -1.4
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "discard:Chalice of Life:essence:calm,calm",
+      "use_power:Oracle"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.4,
+    "average_reward": -1.4
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "discard:Celestial Horse:essence:calm,calm"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.4,
+    "average_reward": -1.4
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Duelist",
+      "discard:Celestial Horse:essence:calm,calm"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.4,
+    "average_reward": -1.4
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "discard:Celestial Horse:essence:calm,calm",
+      "use_power:Transmutation"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.4,
+    "average_reward": -1.4
+  },
+  {
+    "sequence": [
+      "discard:Celestial Horse:essence:calm,calm",
+      "use_power:Transmutation",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.4,
+    "average_reward": -1.4
+  },
+  {
+    "sequence": [
+      "discard:Hypnotic Basin:essence:life,calm",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.4,
+    "average_reward": -1.4
+  },
+  {
+    "sequence": [
+      "discard:Mermaid:essence:calm,calm",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.4,
+    "average_reward": -1.4
+  },
+  {
+    "sequence": [
+      "discard:Hypnotic Basin:essence:life,calm",
+      "use_power:Duelist",
+      "use_power:Transmutation"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.4,
+    "average_reward": -1.4
+  },
+  {
+    "sequence": [
+      "discard:Mermaid:essence:life,life",
+      "use_power:Divination",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.4,
+    "average_reward": -1.4
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Magical Shard",
+      "use_power:Dragon Teeth"
+    ],
+    "length": 3,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": -3.0,
+    "average_reward": -1.5
+  },
+  {
+    "sequence": [
+      "buy_monument:Hanging Gardens",
+      "use_power:Ring of Midas",
+      "use_power:Alchemy"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.5,
+    "average_reward": -1.5
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "use_power:Necromancer"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.6,
+    "average_reward": -1.6
+  },
+  {
+    "sequence": [
+      "use_power:Mausoleum",
+      "use_power:Mausoleum"
+    ],
+    "length": 2,
+    "attempts": 4,
+    "wins": 0,
+    "losses": 4,
+    "success_rate": 0.0,
+    "total_reward": -6.8,
+    "average_reward": -1.7
+  },
+  {
+    "sequence": [
+      "use_power:Bone Dragon",
+      "use_power:Reanimate"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -2.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "use_power:Reanimate",
+      "use_power:Bone Dragon"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -2.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "use_power:Bone Dragon",
+      "use_power:Reanimate",
+      "use_power:Bone Dragon"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -2.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Magical Shard"
+    ],
+    "length": 2,
+    "attempts": 4,
+    "wins": 0,
+    "losses": 4,
+    "success_rate": 0.0,
+    "total_reward": -8.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "buy_monument:Solomon's Mine"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": -4.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Magical Shard",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": -4.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Chalice of Life",
+      "use_power:Magical Shard"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "buy_monument:Oracle"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "use_power:Reanimate",
+      "use_power:Duelist",
+      "use_power:Prism"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "use_power:Prism",
+      "use_power:Oracle",
+      "use_power:Hawk"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "use_power:Alchemy",
+      "buy_monument:Great Pyramid"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "discard:Dancing Sword:essence:death,death",
+      "play_card:Philosopher's Stone"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.9999999999999998,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "play_card:Philosopher's Stone",
+      "discard:Cursed Skull:essence:death,death"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.9999999999999998,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "play_card:Philosopher's Stone",
+      "discard:Cursed Skull:essence:death,death",
+      "use_power:Divination"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -1.9999999999999998,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "discard:Dancing Sword:essence:elan,elan",
+      "use_power:Philosopher's Stone",
+      "discard:Sea Serpent:essence:life,life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Library",
+      "use_power:Library"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.0,
+    "average_reward": -2.0
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 2,
+    "attempts": 3,
+    "wins": 3,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -6.6000000000000005,
+    "average_reward": -2.2
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Necromancer",
+      "buy_place_of_power:Catacombs of the Dead"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -2.2,
+    "average_reward": -2.2
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "use_power:Chalice of Life",
+      "use_power:Necromancer"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -2.2,
+    "average_reward": -2.2
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Catacombs of the Dead",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -2.2,
+    "average_reward": -2.2
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Reanimate"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": -4.4,
+    "average_reward": -2.2
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Fire",
+      "use_power:Fountain of Youth"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.3,
+    "average_reward": -2.3
+  },
+  {
+    "sequence": [
+      "use_power:Divination",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 3,
+    "wins": 0,
+    "losses": 3,
+    "success_rate": 0.0,
+    "total_reward": -7.199999999999999,
+    "average_reward": -2.4
+  },
+  {
+    "sequence": [
+      "buy_monument:Solomon's Mine",
+      "use_power:Solomon's Mine",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.4,
+    "average_reward": -2.4
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Transmutation"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.4,
+    "average_reward": -2.4
+  },
+  {
+    "sequence": [
+      "use_power:Wind Dragon",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.4,
+    "average_reward": -2.4
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Wind Dragon"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.4,
+    "average_reward": -2.4
+  },
+  {
+    "sequence": [
+      "use_power:Wind Dragon",
+      "use_power:Duelist",
+      "use_power:Wind Dragon"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.4,
+    "average_reward": -2.4
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Necromancer",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 3,
+    "attempts": 2,
+    "wins": 2,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -5.0,
+    "average_reward": -2.5
+  },
+  {
+    "sequence": [
+      "discard:Hawk:essence:calm,calm",
+      "use_power:Chalice of Life",
+      "use_power:Necromancer"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.5,
+    "average_reward": -2.5
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "discard:Dragon Bridle:essence:elan,calm",
+      "use_power:Necromancer"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.5,
+    "average_reward": -2.5
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "buy_monument:Mausoleum",
+      "discard:Elemental Spring:gold:"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.5,
+    "average_reward": -2.5
+  },
+  {
+    "sequence": [
+      "buy_monument:Mausoleum",
+      "discard:Elemental Spring:gold:",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.5,
+    "average_reward": -2.5
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "buy_place_of_power:Catacombs of the Dead"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -2.6,
+    "average_reward": -2.6
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Mausoleum"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.6,
+    "average_reward": -2.6
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Mausoleum",
+      "use_power:Hawk"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -2.6,
+    "average_reward": -2.6
+  },
+  {
+    "sequence": [
+      "discard:Dragon Bridle:essence:elan,calm",
+      "use_power:Necromancer"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -3.0,
+    "average_reward": -3.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Dragon Teeth",
+      "use_power:Necromancer"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -3.0,
+    "average_reward": -3.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Mausoleum",
+      "discard:Elemental Spring:gold:"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -3.0,
+    "average_reward": -3.0
+  },
+  {
+    "sequence": [
+      "discard:Dancing Sword:essence:elan,elan",
+      "use_power:Philosopher's Stone"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -3.0,
+    "average_reward": -3.0
+  },
+  {
+    "sequence": [
+      "use_power:Philosopher's Stone",
+      "discard:Sea Serpent:essence:life,life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -3.0,
+    "average_reward": -3.0
+  },
+  {
+    "sequence": [
+      "buy_monument:Colossus",
+      "use_power:Colossus"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": -7.0,
+    "average_reward": -3.5
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Teeth",
+      "use_power:Necromancer"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -3.5,
+    "average_reward": -3.5
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Necromancer",
+      "use_power:Chalice of Life"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -3.5,
+    "average_reward": -3.5
+  },
+  {
+    "sequence": [
+      "buy_monument:Great Pyramid",
+      "use_power:Colossus"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -3.5,
+    "average_reward": -3.5
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Necromancer"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -3.6,
+    "average_reward": -3.6
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Teeth",
+      "use_power:Chalice of Life",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 3,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": -7.3999999999999995,
+    "average_reward": -3.7
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Necromancer"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 1,
+    "losses": 1,
+    "success_rate": 0.5,
+    "total_reward": -7.5,
+    "average_reward": -3.75
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Transmutation",
+      "use_power:Necromancer"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -3.9,
+    "average_reward": -3.9
+  },
+  {
+    "sequence": [
+      "use_power:Vault",
+      "use_power:Dragon Egg"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -3.9000000000000004,
+    "average_reward": -3.9
+  },
+  {
+    "sequence": [
+      "use_power:Vault",
+      "use_power:Dragon Egg",
+      "use_power:Wind Dragon"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -3.9000000000000004,
+    "average_reward": -3.9
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Chalice of Life"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -4.0,
+    "average_reward": -4.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 0,
+    "losses": 2,
+    "success_rate": 0.0,
+    "total_reward": -8.399999999999999,
+    "average_reward": -4.2
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Necromancer"
+    ],
+    "length": 2,
+    "attempts": 2,
+    "wins": 2,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -8.6,
+    "average_reward": -4.3
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Catacombs of the Dead",
+      "buy_place_of_power:Dragon’s Lair"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -4.4,
+    "average_reward": -4.4
+  },
+  {
+    "sequence": [
+      "use_power:Reanimate",
+      "use_power:Necromancer",
+      "use_power:Magical Shard"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -4.4,
+    "average_reward": -4.4
+  },
+  {
+    "sequence": [
+      "use_power:Reanimate",
+      "use_power:Duelist"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -4.4,
+    "average_reward": -4.4
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Alchemy",
+      "buy_monument:Oracle"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -4.4,
+    "average_reward": -4.4
+  },
+  {
+    "sequence": [
+      "discard:Fire Dragon:essence:elan,elan",
+      "use_power:Chalice of Life",
+      "buy_monument:Mausoleum"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -4.5,
+    "average_reward": -4.5
+  },
+  {
+    "sequence": [
+      "use_power:Fountain of Youth",
+      "use_power:Fountain of Youth",
+      "use_power:Necromancer"
+    ],
+    "length": 3,
+    "attempts": 2,
+    "wins": 2,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -9.2,
+    "average_reward": -4.6
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "buy_place_of_power:Sacred Grove"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -5.0,
+    "average_reward": -5.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Necromancer",
+      "buy_place_of_power:Sacred Grove"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -5.0,
+    "average_reward": -5.0
+  },
+  {
+    "sequence": [
+      "use_power:Ring of Midas",
+      "use_power:Chalice of Life",
+      "buy_monument:Hanging Gardens"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -5.0,
+    "average_reward": -5.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "buy_monument:Hanging Gardens",
+      "use_power:Ring of Midas"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -5.0,
+    "average_reward": -5.0
+  },
+  {
+    "sequence": [
+      "discard:Chalice of Life:essence:calm,calm",
+      "buy_monument:Mausoleum"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -5.0,
+    "average_reward": -5.0
+  },
+  {
+    "sequence": [
+      "use_power:Hawk",
+      "discard:Chalice of Life:essence:calm,calm",
+      "buy_monument:Mausoleum"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -5.0,
+    "average_reward": -5.0
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "use_power:Chalice of Life",
+      "buy_place_of_power:Coral Castle"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -5.2,
+    "average_reward": -5.2
+  },
+  {
+    "sequence": [
+      "play_card:Sacrificial Dagger",
+      "use_power:Sacrificial Dagger",
+      "use_power:Sacrificial Dagger"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -5.4,
+    "average_reward": -5.4
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "buy_monument:Hanging Gardens"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -5.5,
+    "average_reward": -5.5
+  },
+  {
+    "sequence": [
+      "buy_monument:Hanging Gardens",
+      "use_power:Ring of Midas"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -5.5,
+    "average_reward": -5.5
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "buy_monument:Mausoleum"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -5.5,
+    "average_reward": -5.5
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Teeth",
+      "use_power:Necromancer",
+      "use_power:Reanimate"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -5.9,
+    "average_reward": -5.9
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "buy_monument:Colossus",
+      "use_power:Colossus"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -5.9,
+    "average_reward": -5.9
+  },
+  {
+    "sequence": [
+      "buy_monument:Colossus",
+      "use_power:Colossus",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -5.9,
+    "average_reward": -5.9
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Reanimate"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -6.4,
+    "average_reward": -6.4
+  },
+  {
+    "sequence": [
+      "use_power:Reanimate",
+      "use_power:Necromancer"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -6.4,
+    "average_reward": -6.4
+  },
+  {
+    "sequence": [
+      "use_power:Mausoleum",
+      "use_power:Mausoleum",
+      "use_power:Prism"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -6.4,
+    "average_reward": -6.4
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "use_power:Reanimate",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -6.8,
+    "average_reward": -6.8
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "buy_place_of_power:Coral Castle"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 1,
+    "losses": 0,
+    "success_rate": 1.0,
+    "total_reward": -7.0,
+    "average_reward": -7.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Chalice of Life",
+      "use_power:Dragon Egg"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -7.0,
+    "average_reward": -7.0
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Dragon Egg"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -7.5,
+    "average_reward": -7.5
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Dragon Egg",
+      "use_power:Divination"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -7.5,
+    "average_reward": -7.5
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Egg",
+      "use_power:Divination"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -8.0,
+    "average_reward": -8.0
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "use_power:Sacrificial Dagger",
+      "use_power:Transmuter"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -8.0,
+    "average_reward": -8.0
+  },
+  {
+    "sequence": [
+      "use_power:Catacombs of the Dead",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -8.399999999999999,
+    "average_reward": -8.4
+  },
+  {
+    "sequence": [
+      "use_power:Chalice of Life",
+      "use_power:Catacombs of the Dead",
+      "use_power:Catacombs of the Dead"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -8.399999999999999,
+    "average_reward": -8.4
+  },
+  {
+    "sequence": [
+      "use_power:Duelist",
+      "buy_monument:Colossus"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -8.4,
+    "average_reward": -8.4
+  },
+  {
+    "sequence": [
+      "use_power:Transmutation",
+      "use_power:Duelist",
+      "buy_monument:Colossus"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -8.4,
+    "average_reward": -8.4
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Egg",
+      "use_power:Wind Dragon"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -8.4,
+    "average_reward": -8.4
+  },
+  {
+    "sequence": [
+      "use_power:Necromancer",
+      "use_power:Reanimate",
+      "use_power:Necromancer"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -10.4,
+    "average_reward": -10.4
+  },
+  {
+    "sequence": [
+      "use_power:Dragon Egg",
+      "use_power:Wind Dragon",
+      "use_power:Duelist"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -10.8,
+    "average_reward": -10.8
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "use_power:Transmuter"
+    ],
+    "length": 2,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -11.4,
+    "average_reward": -11.4
+  },
+  {
+    "sequence": [
+      "use_power:Sacrificial Dagger",
+      "use_power:Transmuter",
+      "use_power:Chalice of Fire"
+    ],
+    "length": 3,
+    "attempts": 1,
+    "wins": 0,
+    "losses": 1,
+    "success_rate": 0.0,
+    "total_reward": -13.4,
+    "average_reward": -13.4
+  }
+]
