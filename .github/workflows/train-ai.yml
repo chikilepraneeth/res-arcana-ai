@@ -1,0 +1,110 @@
+﻿name: Train Res Arcana AI
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Force training"
+        required: false
+        default: true
+        type: boolean
+
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+
+    env:
+      SUPABASE_URL: ${{ vars.SUPABASE_URL }}
+      SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+      MIN_NEW_GAMES: "5"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Set force training
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
+            echo "FORCE_TRAIN=true" >> "$GITHUB_ENV"
+          else
+            echo "FORCE_TRAIN=false" >> "$GITHUB_ENV"
+          fi
+
+      - name: Download games from Supabase
+        run: |
+          python sync_supabase.py
+
+      - name: Check whether training is required
+        id: check
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import os
+
+          with open("sync_status.json", "r", encoding="utf-8") as f:
+              status = json.load(f)
+
+          value = "true" if status["should_train"] else "false"
+
+          print("Training required:", value)
+          print("New games:", status["new_games"])
+          print("Unique games:", status["unique_games"])
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"train={value}\n")
+          PY
+
+      - name: Train neural network
+        if: steps.check.outputs.train == 'true'
+        run: |
+          python src/ml/neural_counter_model.py
+
+      - name: Export web neural model
+        if: steps.check.outputs.train == 'true'
+        run: |
+          python src/ml/export_web_model.py
+
+      - name: Mark training complete
+        if: steps.check.outputs.train == 'true'
+        run: |
+          python mark_training_complete.py
+
+      - name: Commit updated model
+        if: steps.check.outputs.train == 'true'
+        shell: bash
+        run: |
+          git config user.name "Res Arcana AI Trainer"
+          git config user.email "actions@github.com"
+
+          git add training_state.json
+          git add models/neural_counter_web.json
+
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Update trained Res Arcana AI model"
+            git push
+          fi
+
+      - name: No training required
+        if: steps.check.outputs.train != 'true'
+        run: |
+          echo "Waiting for more games."
