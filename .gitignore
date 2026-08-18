@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+.env
+
+memory/game_memory.json
+sync_status.json
+
+models/*.pt
+models/*.pth
