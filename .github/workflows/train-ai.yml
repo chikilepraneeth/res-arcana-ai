@@ -77,6 +77,11 @@ jobs:
               f.write(f"train={value}\n")
           PY
 
+      - name: Build player profiles
+        if: steps.check.outputs.train == 'true'
+        run: |
+          python build_player_profiles.py
+
       - name: Train neural network
         if: steps.check.outputs.train == 'true'
         run: |
@@ -101,10 +106,13 @@ jobs:
 
           mkdir -p web/models
           cp models/neural_counter_web.json web/models/neural_counter_web.json
+          cp models/player_profiles.json web/models/player_profiles.json
 
           git add training_state.json
           git add models/neural_counter_web.json
           git add web/models/neural_counter_web.json
+          git add models/player_profiles.json
+          git add web/models/player_profiles.json
 
           if git diff --cached --quiet; then
             echo "Nothing changed."
