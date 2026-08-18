@@ -1,0 +1,56 @@
+{
+  "chikile": {
+    "display_name": "chikile",
+    "games": 706,
+    "wins": 23,
+    "losses": 682,
+    "item_choices": {
+      "Reanimate": {
+        "count": 31,
+        "rate": 0.3163
+      },
+      "Research": {
+        "count": 28,
+        "rate": 0.2857
+      },
+      "Calm / Elan": {
+        "count": 23,
+        "rate": 0.2347
+      },
+      "Death / Life": {
+        "count": 16,
+        "rate": 0.1633
+      }
+    },
+    "move_types": {
+      "use_power": 341,
+      "discard": 161,
+      "pass": 98,
+      "buy_monument": 57,
+      "play_card": 33,
+      "buy_place_of_power": 23
+    },
+    "favorite_cards": {
+      "Dragon’s Lair": 85,
+      "Catacombs of the Dead": 76,
+      "Reanimate": 58,
+      "Research": 50,
+      "Elvish Bow": 26,
+      "Library": 26,
+      "Calm / Elan": 23,
+      "Horn of Plenty": 18,
+      "Jeweled Statuette": 17,
+      "Death / Life": 16,
+      "Athanor": 16,
+      "Dwarven Pickaxe": 16,
+      "Cursed Skull": 13,
+      "Chalice of Fire": 13,
+      "Flaming Pit": 12,
+      "Windup Man": 12,
+      "Colossus": 12,
+      "Elemental Spring": 11,
+      "Ring of Midas": 10,
+      "Solomon's Mine": 10
+    }
+  }
+}
