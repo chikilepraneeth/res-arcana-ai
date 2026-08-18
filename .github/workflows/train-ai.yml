@@ -14,10 +14,15 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   train:
     runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
 
     env:
       SUPABASE_URL: ${{ vars.SUPABASE_URL }}
@@ -107,6 +112,20 @@ jobs:
             git commit -m "Update trained Res Arcana AI model"
             git push
           fi
+
+      - name: Configure Pages after training
+        if: steps.check.outputs.train == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Upload updated web game
+        if: steps.check.outputs.train == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./web
+
+      - name: Deploy updated Res Arcana Web
+        if: steps.check.outputs.train == 'true'
+        uses: actions/deploy-pages@v4
 
       - name: No training required
         if: steps.check.outputs.train != 'true'
