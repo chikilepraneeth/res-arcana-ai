@@ -1,4 +1,4 @@
-﻿name: Train Res Arcana AI
+name: Train Res Arcana AI
 
 on:
   workflow_dispatch:
@@ -94,8 +94,12 @@ jobs:
           git config user.name "Res Arcana AI Trainer"
           git config user.email "actions@github.com"
 
+          mkdir -p web/models
+          cp models/neural_counter_web.json web/models/neural_counter_web.json
+
           git add training_state.json
           git add models/neural_counter_web.json
+          git add web/models/neural_counter_web.json
 
           if git diff --cached --quiet; then
             echo "Nothing changed."
